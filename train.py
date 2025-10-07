@@ -40,7 +40,7 @@ print(f"Using device: {device} with dtype {dtype}")
 BDH_CONFIG = bdh.BDHConfig()
 BLOCK_SIZE = 512
 BATCH_SIZE = 32
-MAX_ITERS = 3000
+MAX_ITERS = 500
 LEARNING_RATE = 1e-3
 WEIGHT_DECAY = 0.1
 LOG_FREQ = 100
@@ -49,7 +49,7 @@ CHECKPOINT_PATH = os.getenv(
 )
 CHECKPOINT_EVERY = int(os.getenv("BDH_CHECKPOINT_EVERY", str(LOG_FREQ)))
 
-input_file_path = "/content/simpleqa_verified_extract.txt"
+input_file_path = "/content/bdh/simpleqa_verified_extract.txt"
 
 
 def get_batch(split):
