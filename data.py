@@ -1,36 +1,27 @@
+from datasets import load_dataset
 
-# Install datasets library if needed
-import subprocess
-import sys
-
-try:
-    from datasets import load_dataset
-    print("datasets library already installed")
-except ImportError:
-    print("Installing datasets library...")
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", "datasets"])
-    from datasets import load_dataset
-
-# Load the google/simpleqa-verified dataset
-print("\nLoading google/simpleqa-verified dataset...")
+# Load the dataset
 dataset = load_dataset("google/simpleqa-verified")
 
-# Display dataset structure
-print("\nDataset splits:")
-print(dataset)
+# Open file for writing
+with open('simpleqa_verified_extract.txt', 'w', encoding='utf-8') as f:
+    # Write header
+    f.write("="*80 + "\n")
+    f.write("SimpleQA Verified Dataset - Topic, Problem, Answer\n")
+    f.write("="*80 + "\n\n")
+    
+    # Iterate through all examples
+    for idx, example in enumerate(dataset['eval'], 1):
+        f.write(f"Topic: {example['topic']},{example['problem']},{example['answer']}\n")
+        
 
-# Get the column names from the dataset
-print("\nColumn names:")
-columns = dataset['simpleqa_verified'].column_names
-for i, col in enumerate(columns, 1):
-    print(f"{i}. {col}")
+print(f"✓ Exported {len(dataset['eval'])} entries to 'simpleqa_verified_extract.txt'")
+print(f"✓ File size: {len(open('simpleqa_verified_extract.txt', 'r').read())} characters")
 
-# Display column info with types
-print("\nColumn details:")
-print(dataset['simpleqa_verified'].features)
-
-# Show first example to illustrate the data structure
-print("\nFirst example:")
-first_example = dataset['simpleqa_verified'][0]
-for key, value in first_example.items():
-    print(f"\n{key}: {value}")
+# Preview first 3 entries
+print("\nPreview of first 3 entries:")
+print("="*80)
+for i in range(3):
+    example = dataset['eval'][i]
+    print(f"{example['topic']},{example['problem']},{example['answer']}")
+    print("-"*80)
