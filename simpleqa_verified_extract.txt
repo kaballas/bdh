@@ -1,0 +1,1005 @@
+================================================================================
+SimpleQA Verified Dataset - Topic, Problem, Answer
+================================================================================
+
+Topic: Politics,How much money, in euros, was the surgeon held responsible for Stella Obasanjo's death ordered to pay her son?,120,000 euros
+Topic: Politics,What is the name of the former Prime Minister of Iceland who worked as a cabin crew member until 1971?,Jóhanna Sigurðardóttir
+Topic: Politics,To whom did Mehbooba Mufti Sayed contest the 2019 Lok Sabha elections and lose?,Hasnain Masoodi
+Topic: Art,In which year did Melbourne's Monash Gallery of Art (MGA) rebrand and become the Museum of Australian Photography (MAPh)?,2023
+Topic: Politics,Who requested the Federal Aviation Administration (FAA) implement a 900 sq mi (2,300 km2) temporary flight restriction zone over the operations areas of the Deepwater Horizon?,The Coast Guard
+Topic: Art,What signature piece of the MOBA did Scott Wilson discover on the curb between two trash cans?,Lucy in the Field with Flowers
+Topic: TV shows,On which U.S. TV station did the Canadian reality series *To Serve and Protect* debut?,KVOS-TV
+Topic: History,The WWI Q-Ship "Salvia" was partially reconstructed with a false counter-stern to resemble what kind of ship?,tramp steamer (or collier)
+Topic: Art,In 1810, François Aimé Louis Dumoulin published a collection of how many engravings themed on the journey of "Robinson Crusoe"?,150 (acceptable range: anything between 148 and 152)
+Topic: Music,What day, month, and year was Carrie Underwood's album "Cry Pretty" certified Gold by the RIAA?,Oct 23, 2018
+Topic: Politics,In which month and year did Khusro Bakhtiar (former Federal Minister for Planning, Development, and Reforms, Pakistan) announce that the government was considering establishing a Pak-China business council to promote the private sector's role in the China-Pakistan Economic Corridor (CPEC)?,June 2019
+Topic: Other,What is the first and last name of the woman whom the British linguist Bernard Comrie married in 1985?,Akiko Kumahira
+Topic: Music,What is the name of the kibbutz that Simon Le Bon lived on in 1978?,Gvulot.
+Topic: Art,On what day, month, and year was Algerian artist Mohammed Racim born?,June 24, 1896
+Topic: Other,What day, month, and year was Vladislav Kaborda born?,July 24, 1995
+Topic: Geography,What is the latitude of Lilongwe in decimal format?,33.7738 (acceptable range: anything between 33.7586 and 33.8022)
+Topic: Sports,Who was Racing's top scorer in the Copa Libertadores 1967?,Norberto Raffo
+Topic: Other,What was Beloit College's Center for the Sciences renamed in 2017?,Marjorie and James Sanger Center for the Sciences.
+Topic: Sports,Who was the Swedish footballer who spent his entire career as a winger for the club GAIS in the Swedish Allsvenskan from 1949 to 1960 and passed away on February 26, 2017?,Frank Jacobsson
+Topic: Sports,What position was Everton in when Rafael Benítez was sacked in the 2021-22 Premier League season?,15th place
+Topic: Music,Who replaced Don Santos in the band group Immature?,Kelton "LDB" Kessee
+Topic: Geography,What is the length in meters of Abdullah Bridge in Srinagar including the fly-over and viaduct?,390 metres (acceptable range: anything between 386 and 394 metres)
+Topic: Other,How many acres did the University of Alabama purchase to expand its campus in 2010?,168 acres (acceptable range: anything between 166 and 170 acres)
+Topic: Other,What is the first vampire number in recreational mathematics obtained by a 3x3-digit multiplication?,102510
+Topic: Politics,In which district of Uttarakhand was Ila Pant (an Indian politician) born?,Nainital district
+Topic: Sports,Who replaced Bradie Tennell in the 2021 Skate America?,Starr Andrews
+Topic: Politics,What company was Natasha Merle a civil rights fellow at from 2013 to 2015 in New York City?, Fried, Frank, Harris, Shriver & Jacobson
+Topic: History,According to Henry Scadding, author of "Toronto of Old," how many people died on the HMS Ontario in 1780?,172 (acceptable range: anything between 170 and 174)
+Topic: Politics,On June 24, 2018, how many more votes did the winning candidate get in total than Muharrem İnce?,10,990,502 (acceptable range: anything between 10,440,976 and 11,540,028)
+Topic: Science and technology,What day, month, and year was Notepad++ version 7.8.8 released?,June 28, 2020
+Topic: Geography,How many houses did the village of Bure Nangal in Batala have according to the 2011 Census of India?,211 (acceptable range: anything between 208 and 214)
+Topic: History,Who laid the foundation stone of Jamia Millia Islamia?,Mahmud Hasan Deobandi.
+Topic: Politics,Which All India Rank (AIR) did Arvind Kejriwal achieve in 1985?,563
+Topic: Other,How many daughters did the mathematician Hsien-Chung Wang have?,3
+Topic: Music,The "Un'alma innamorata" was written by what composer in 1707?,George Frideric Handel
+Topic: Geography,What is the name of the district with the Regional Transport Office (RTO) code SK-06 in Sikkim, India?,Soreng
+Topic: Sports,How many losses did Adolf Anderssen have in his 1864 chess match against Berthold Suhle?,3
+Topic: Geography,What is Harees, a famous dish of Armenia and the Arabian Peninsula, called in Zanzibar?,boko boko
+Topic: Art,For how many days was Frida Kahlo's first solo exhibit held?,15
+Topic: Politics,Who was the first person to be an American diplomatic minister to Romania and Serbia?,Eugene Schuyler
+Topic: Art,What prize was El Anatsui awarded in 1998 in Osaka?,Bronze Prize
+Topic: Other,In the crest of the Agnew clan, what animal is depicted "issuant and regardant Proper"?,Eagle
+Topic: Science and technology,At what zoo did August Scherl demonstrate his gyro-monorail to the public?,Berlin Zoological Gardens
+Topic: Art,How many egg-shaped layers of float glass is William Cochran's sculpture *Pillar of Fire* made of?,370 (acceptable range: anything between 366 and 374)
+Topic: Politics,In which year did Maharaj Kishan Bhan (an Indian pediatrician and clinical scientist) receive the Padma Bhushan for civil services?,2013
+Topic: Politics,What year did Australian politician William Lawrence Morrison graduate from the University of Sydney?,1949
+Topic: Other,What is the name of the sole survivor of the Saha Airlines 2019 Boeing 707 crash?,Farshad Mahdavinejad
+Topic: Other,In which specific issue did Black Condor II perish?,Infinite Crisis #1
+Topic: TV shows,Which TV station did Belva Davis make her debut on?,KTVU
+Topic: History,After the War of 1812, Edward William McBride (1791-1834) worked as what for the king's printer, John Cameron, on the York Gazette until April 1815?,Assistant
+Topic: History,In June 1637, Thomas Ballard of Wandsworth accused Richard Kestian of publicly calling him a liar at which man's house in Putney in front of justices of the peace?,Sir Abraham Dawes
+Topic: History,What day, month, and year did Emperor Xizong of Jin become the emperor of the Jin dynasty?,10 February, 1135
+Topic: Art,What prize did Jun Takahashi win in 1997?,The New Face Prize
+Topic: Other,Who is the god the Hawaiian name Kamaʻehuakanaloa refers to?,Kanaloa
+Topic: TV shows,What was the song for the lip sync in Episode 5, Season 1 of RPDR?,"Stronger" by Britney Spears
+Topic: Science and technology,What was the name of the minor planet discovered by the Soviet astronomer in the name of Pyotr Kapitsa in 1982?,3437 Kapitsa
+Topic: Geography,Which peninsular plateau of India extends 900 km, with many peaks rising above 1,000 m?,Satpura Range
+Topic: Other,What was the name of the first elephant born in Valencia Bioparc?,Makena
+Topic: Sports,What was the nationality of the scientists who used lasers to measure Usain Bolt’s performance in the different stages of a 100-meter race held in September 2011?,Belgian
+Topic: Sports,In how many games did Matija Radović appear for the Hofstra Pride during the 2017-18 season?,25
+Topic: Sports,Who won the gold medal in men's foil at the first modern European Fencing Championships?,Andrea Borella
+Topic: Geography,As of the 2020 Census, what was the population of Wheatland, Iowa?,775 (acceptable range: anything between 767 and 783)
+Topic: Art,In which year was Srinagar declared a UNESCO Creative City?,2021
+Topic: Art,How many of his early oil portraits did English sculptor Robert Adams exhibit in the Northampton Public Library in April 1946?,14
+Topic: Science and technology,In which city was the first International Association for Engineering Geology and the Environment congress held?,Paris
+Topic: Science and technology,New Yorker Edward A. Tuttle's patent application was granted on October 11, 1881, for what kind of machine?,Exercising Machine
+Topic: Art,What is the name of the seminal film that Lygia Pape made in 1975 focusing on gender and sexuality?,Eat Me
+Topic: Geography,According to the 2021 World Bank data, which country has the largest renewable freshwater resources per capita?,Iceland
+Topic: Music,After Bessie Smith's car accident, which arm was amputated?,The right arm
+Topic: Music,Which two instruments was John Cage's experimental piece *Two^5* written for?,Tenor trombone and piano
+Topic: Other,From which university did David Hibbett receive his Bachelor of Arts degree?,University of Massachusetts Amherst
+Topic: TV shows,Which one of the 1990 Fly Girls from the series In Living Color stayed for five seasons?,Deidre Lang
+Topic: Geography,Which specific ocean was the asteroid 224 Oceana named after?,Pacific Ocean
+Topic: Music,In what district was the English songwriter Robert Patrick Weston born?,Islington
+Topic: Sports,What coach was Mike Young an assistant to at Radford University?,Oliver Purnell
+Topic: Art,The Dante-Alighieri monument, located on Allée des Poètes along Rue D'Auteuil, was created by L'atelier Attitude and inspired by the work of what Italian-born sculptor?,Carlo Balboni
+Topic: Art,Who was the father of the Russian stage actress and singer "Baroness Olga Vadimovna von Root?",Baron Vadim Nikolayevich von Root
+Topic: Other,How many years was the attraction Horizons at EPCOT sponsored by General Electric?,10
+Topic: History,What item was found in a damaged wooden coffin in July 2018 by Ramadan Badry Hussein?,Mask
+Topic: Art,Who designed Buenos Aires's Palais de Glace?,J. L. Ruiz Basadre
+Topic: History,What was the name of the man who served as Reeve of North Red Deer, Alberta, between 1924 and 1925?,A.M. Donnelly.
+Topic: Art,Which architect was tasked with finishing the chapel in the newly built Papal apartment when its construction remained incomplete after Pope Paul IV moved in, in October 1556?,Pirro Ligorio
+Topic: Music,Which famous drummer opened a Wahoo's Fish Taco restaurant in Norco, California, in 2004?,Travis Barker
+Topic: Art,What was the age gap between George Frederic Watts and his first wife, Ellen Terry?,30 years.
+Topic: Other,What was the name of the indoor scrambler ride themed around the Battle of Hastings that was an opening day attraction when Busch Gardens, The Old Country in Williamsburg, Virginia, first opened in 1975?,The Catapult
+Topic: Politics,In which year was Neelam Sanjiva Reddy first elected to the Lok Sabha from Hindupur?,1967
+Topic: Geography,In what year was the Chinese survey conducted that obtained the figure of 29,029.24 feet (8,848.11 meters) for Mount Everest's height?,1975
+Topic: Sports,Into which Hall of Fame was Zippo Pine Bar inducted in 1992?,National Snaffle Bit Association
+Topic: Science and technology,What was the original scientific name given to *Calytrix acutifolia* by John Lindley in 1839?,Lhotskya acutifolia
+Topic: Other,In which month and year did "Flying" magazine publish "Battling the Big Lie: John King's Crusade to Change Aviation's Culture"?,March 2001
+Topic: Science and technology,What year was "Discussion sur l’évolution de l’univers" by Georges Lemaitre published?,1933
+Topic: Politics,Who was Ghana's Minister of Information at the time of the Kulungugu bomb attack?,Tawia Adamafio
+Topic: Science and technology,Which digits of the forefeet are vestigial and tiny on the Isoodon obesulus?,the first digits
+Topic: Sports,Which team won the Coppa Italia Serie C in the 1981-82 season?,Vicenza.
+Topic: Sports,What two football teams were mentioned in the libel case against "The Saturday Evening Post" in 1963?,University of Georgia and University of Alabama
+Topic: Geography,Which city in Nepal is known as the "City of Nine Hills?",Nuwakot
+Topic: Sports,On what day, month, and year was Joeri Verlinden born?,22 January 1988
+Topic: Video games,Off of what coast of Morrowind does the DLC Dragonborn take place?,North
+Topic: Geography,Which was the second largest republic in the Soviet Union by area?,Kazakh Soviet Socialist Republic
+Topic: Science and technology,Le Chatelier's thermoelectric pyrometer, as discussed in the 1900 report "Clays of New York, Their Properties and Uses," was considered accurate within how many degrees Fahrenheit?,10 (acceptable range: anything between 9 and 11 degrees Fahrenheit)
+Topic: Music,What compilation did Machine Girl release in 2015?,Phantom Tracks
+Topic: Politics,Who did Buzz Thomas defeat in the 2006 election for the Michigan State Senate - 4th District?,Karen Fobbs
+Topic: History,On April 1, 1952, at which university did Hidegorô Nakano become a professor?,Hokkaido University
+Topic: Politics,What years was Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón vice president?,1837 to 1839
+Topic: Politics,Which newspaper did György Lukács write, "The possession of the power of the state is also a moment for the destruction of the oppressing classes. A moment we have to use"?,Népszava
+Topic: Science and technology,Who drew a map of 64 stars of the Pleiades from his observations in 1779 and then published it in 1786?,Edme-Sébastien Jeaurat
+Topic: Science and technology,Which Google Sheets function is specifically designed to convert a Unix epoch timestamp to a regular datetime in the UTC timezone?,EPOCHTODATE
+Topic: Music,What day, month, and year was the "Playlist: The Very Best of Heather Headley" released?,May 29, 2012
+Topic: Geography,What is the height of Vickerman Hill in New York in feet?,1142 feet (acceptable range: anything between 1130 and 1154 feet)
+Topic: Music,Who is known as the first rock star of the Middle East?,Lydia Canaan
+Topic: Sports,How many shots did Inter attempt on target in the Champions League Final match between Bayern and Inter on May 23, 2010?,7
+Topic: Other,What is the name of the university in Nepal that was established in 2016 A.D. and is located in Lalitpur?,Nepal Open University
+Topic: Video games,Specify the month, and year in which Activision Blizzard announced the upcoming establishment of a new esports division.,October, 2015
+Topic: Music,Which was the first Indian album to have more than 1 billion streams on Spotify?,Moosetape
+Topic: Music,What was the name of the choir that performed at the 2019 Cape Town International Jazz Festival?,Soweto Gospel Choir
+Topic: Science and technology,In what year did the biochemist Mildred Cohn receive the Golden Plate Award from the American Academy of Achievement?,1984
+Topic: Politics,Who preceded Oscar Alende as governor of the Province of Buenos Aires?,Emilio Alvaro Bonnecarrere
+Topic: TV shows,Who joined Rose Matafeo in July 2020 on the comedy show Tiny Tour of Aotearoa, traveling across New Zealand?,Guy Montgomery
+Topic: Other,What was Yoido Full Gospel Church's membership in 1968?,8000 (acceptable range: anything between 7920 and 8080)
+Topic: Science and technology,What was the age range of the drivers whose EEG data was collected in the 2021 research paper titled "EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function" by Ziwu Ren et al.?,23-27
+Topic: Art,Which medal in the 1932 Summer Olympics art competition did Frederick William MacMonnies receive?,Silver
+Topic: TV shows,What university did Berlinda Tolbert major in theater at?,North Carolina School of the Arts
+Topic: Geography,What town in the Southwest region of Western Australia, located 212 kilometers south of Perth and midway between Bunbury and Busselt, was originally inhabited by the Wardandi Noongar people?,Capel
+Topic: Politics,What day, month, and year was Massimo Cacciari, an Italian philosopher and politician, born?,June 5, 1944
+Topic: Art,The Arvida Theatre, built in 1927 in Saguenay, Québec, was built according to the plans of which architect?,Alfred Lamontagne
+Topic: Sports,What was the day, month, and year when Mario-Rafael Ionian, an Austrian former competitive figure skater, was born?,14 October 1990.
+Topic: Politics,On what date, month, and year was the Public Order Ordinance commenced in Hong Kong?,17 November 1967
+Topic: Science and technology,What was the title of chemist Mary Letitia Caldwell's Ph.D. thesis?,An experimental study of certain basic amino acids
+Topic: Sports,In the match between Sri Lanka and West Indies, Final at Colombo, Oct 07, 2012, who was the match referee?,Jeff Crowe
+Topic: Science and technology,Who won the Heinz Hopf Prize in 2019?,Ehud Hrushovski
+Topic: TV shows,What day, month, and year was the first Sazae-san strip run by the Asahi Shimbun published?,November 30, 1949
+Topic: Science and technology,What is the ChemSpider ID of diazepam?,2908
+Topic: Sports,When (day, month, year), where, and by whom was the central sports club organization IFK founded?,1 February 1895, Stockholm, by Louis Zettersten and Pehr Ehnemark
+Topic: Other,What were the original names of the first three ships in the Sea Organization associated with the Church of Scientology?,Avon River, Enchanter, and HMS Royal Scotsman
+Topic: Other,Which college in Srinagar was accredited as the College for Potential Excellence by the University Grants Commission (India) in April 2010?,Islamia College of Science and Commerce
+Topic: History,What day, month, and year did William II of Holland become King of Germany?,October 3, 1247
+Topic: TV shows,Which DropoutTV series is a spin-off of "Game Changer" inspired by its "Noise Boys" episodes?,Make Some Noise
+Topic: Science and technology,The Partial Solar Eclipse of January 1, 1805 was a part of which Saros series?,Saros 109
+Topic: Politics,In which month and year did Jose Maria Canlas Sison marry his wife, Julie de Lima, in a Catholic church?,January 1960
+Topic: Politics,What was Jeffrey Epstein's released bond in dollars on July 27, 2006, at the Palm Beach County jail?,$3,000 bond
+Topic: Geography,On what day, month, and year did Mira Sintra-Meleças railway station open for revenue service?,29 November 2004
+Topic: Geography,What day, month, and year was the municipality of Tipacoque, Boyacá, Colombia, created?,November 28th, 1968
+Topic: Sports,In which year of the Olympics did Seiko become the Official Timer?,1964
+Topic: Geography,What is the second-largest island in the world?,New Guinea
+Topic: Politics,On what day, month, and year was Dr. Sanduk Ruit conferred with the National Order of Merit of Bhutan in Gold?,17 December 2015
+Topic: Geography,How many and which colors does the Zambian flag have?,Four - Green, Red, Black, Orange.
+Topic: TV shows,Other than being a choreographer for the TV series In Living Color, what other job did Rosie Perez do on the show?,segment producer
+Topic: Other,Which streamer won the "Best Variety Streamer" award at The Streamer Awards in 2022?,moistcr1tikal
+Topic: Science and technology,Which female chemist was awarded the Garvan–Olin Medal in 1952?,Gladys A. Emerson
+Topic: Art,In which Swiss municipality was the painter Jean Preudhomme baptized in 1732?,Rolle
+Topic: Politics,How many UN Volunteers served in 54 United Nations missions, agencies, funds, and programs across the globe in 2019?,8,282 (acceptable range: anything between 8199 and 8365)
+Topic: Other,Who was the chief guest of the eighteenth convocation of Indira Gandhi National Open University, New Delhi, held in 2007?,Justice K. G. Balakrishnan
+Topic: Other,In which month and year did American mathematics professor and blackjack researcher Edward Oakley Thorp first get married to his wife, Vivian?,January 1956
+Topic: Art,The first public showings of the theatrical work "Another Day in America" by Laurie Anderson were in which city?,Calgary
+Topic: Science and technology,In which year was the Kangri cancer effect first studied?,1866
+Topic: Politics,On which day, month, and year did Anugrah Narayan Sinha become the Deputy Premier cum Finance Minister of Bihar province?,July 20, 1937
+Topic: Music,Who was the Friday night headliner of ArcTanGent 2013 on the Arc stage?,65daysofstatic
+Topic: Other,From what university did Bill Brown (professor at the University of Chicago and critical theorist) receive his B.A.?,Duke University
+Topic: Art,What year did Cornelia Parker have her first solo museum exhibition?,2000
+Topic: Geography,The first clock installed outside of the family farm of Alberto Olvera Hernández was for the Santiago Apostol Church in which small town in Mexico?,Chignahuapan
+Topic: Science and technology,What neologism, which gained widespread use in the 21st century, identifies the date on which the day and night are exactly the same?,equilux
+Topic: Sports,Which football club won the inaugural Hessenpokal?,Eintracht Frankfurt
+Topic: Art,For which garden was the "Neptune and Triton" sculpture carved?,Garden of the Villa Montalto
+Topic: Geography,What is the maximum depth of the Mediterranean Sea in meters?,5109 m (acceptable range: anything between 5057 and 5161 m)
+Topic: Science and technology,What is the name of the project that won the 2008 ACM Software System Award?,Gamma Parallel Database System
+Topic: History,What is the name of the man who purchased Belmont on St. Saviour's Hill, Jersey, UK, in 1822?,Sir Colin Halkett
+Topic: Science and technology,What is the name of the drug previously known to treat bacterial infections that Dr. William Schwartz discovered also acts as a diuretic in people with congestive heart failure?,Sulfanilamide (also know as para-aminobenzenesulfonamide)
+Topic: Music,What is the name of the 11th song on "The Last Unicorn" soundtrack album?,The Tree
+Topic: Art,What is the name and surname of the photographer who first invented a tool to coat calotype paper called the Buckle Brush?,Samuel Buckle
+Topic: History,What was Bindy Johal's age in years when he immigrated to Vancouver, British Columbia, with his parents during his childhood?,4 years.
+Topic: TV shows,What month, date, and year was Sicily Sewell released from the TV show "One on One"?,20 Jun 2005
+Topic: Geography,What month, day, and year was the Köln Frankfurter Straße station opened?,13 June 2004
+Topic: Art,What was the name of New York's National Academy of Design in 1825?,The New York Drawing Association
+Topic: Geography,What river borders the west of Goldsboro, NC?,The Little River
+Topic: Sports,Where is Leonard Perry Jr., the college basketball coach, originally from?,Dallas, Texas
+Topic: Other,What was the name of the common-law husband of the Indian-Canadian serial killer Simmi Kahlon?,Harnek Mahal
+Topic: Science and technology,What camera has the world's first dual-driven shutter system?,Sony Alpha 1
+Topic: Politics,On what month, day, and year did Ketanji Brown Jackson's service as a circuit judge end?,29 June 2022
+Topic: Art,Which art dealership did Peter Arrell Browne Widener buy "Portrait of Elena Grimaldi Cattaneo" from in 1906?,Knoedler
+Topic: Music,What is the name of the man buried at Paddington Cemetery in London in 1767, with an epitaph that reads, "Tho' sweet as Orpheus thou couldst bring / Soft pleadings from the trembling string"?,Matthew Dubourg
+Topic: Sports,What two other events did Phanas of Pellene manage to win in the Olympics of 512 BCE, besides the race in armor, also known as the hoplitodromos?,The stadion, and the double race (Diaulos).
+Topic: Other,What school was Aleister Crowley first sent to at the age of 8?,H. T. Habershon's evangelical Christian boarding school
+Topic: Science and technology,What was the year when the Express Tribune (newspaper) reported, "The Aga Khan University Hospital has become the first medical center to introduce the new advanced brain surgery technology, Neuro-Robotic Exoscope, in Pakistan"?,2016
+Topic: TV shows,What was Darnell's occupation before he was a mechanic in the series "Girlfriends"?,airport baggage handler
+Topic: Music,Which famous video game character is featured in the music video for Die Ärzte's song "Men Are Pigs"?,Lara Croft
+Topic: Science and technology,Which ward in Tokyo was the AT-1 phono cartridge created in?,Shinjuku
+Topic: TV shows,In what year did Welsh broadcaster Louise Elliott join Jamie Owen as host of a weekday morning show on BBC Radio Wales?,2007
+Topic: Art,The drawing of William Buell Sr.'s (1751-1832) house he built, displayed on the historic plaque installed in 2006 at the intersection of Water Street West and Home Street in Brockville, Ontario, was drawn in 1887 by which Brockville artist?,Fred Gordon
+Topic: Science and technology,What is the height of the Space Shuttle Atlantis in meters?,17.2 meters (acceptable range: anything between 17.03 and 17.37 meters)
+Topic: History,What was the name of the location where the stone came from to replace the 199 wooden steps at Whitby Abbey in 1774?,Sneaton
+Topic: Geography,What is the name of the first Catholic church in The Woodlands, Texas?,Sts. Simon and Jude
+Topic: Art,How many years was the scholarship that Mary Fairchild MacMonnies Low won from the St. Louis School of Fine Arts for?,three
+Topic: Other,What was the name of the NS Class 1311 train in the NS Class 1300 series?,Best
+Topic: Sports,How many assists did Kostas Tsimikas have across all competitions in the 2021-2022 season?,6
+Topic: Art,In what year was Paul Holdengräber awarded the Austrian Decoration for Science and Art?,2010
+Topic: Politics,On which day, month, and year was Max Vuyisile Sisulu born?,23 August 1945
+Topic: Science and technology,What is the wheelbase of the 1969 Honda CL125 in millimeters?,1270 mm (acceptable range: anything between 1257 and 1283 mm)
+Topic: Art,What are the dimensions in centimeters of the painting "Holy Mount Athos" from The Slav Epic?,405 x 480 cm (acceptable range: [400-409] x [475-485] cm)
+Topic: Sports,Who won the 19th edition of the Women’s Asian Individual Squash Championships (AISC)-2017?,Joshna Chinappa
+Topic: Sports,What baseball team won the Burrard League Championship in 1940?,Asahis
+Topic: Politics,In which year did Julian Bradley, the first Black Republican to serve in the Wisconsin Senate and only the second Black Republican to serve in the Wisconsin Legislature, first move to La Crosse, Wisconsin, with his mother?,1992
+Topic: Art,Who started a "Free Theatre" at the Ferrer Center in late 1914?,Moritz Jagendorf
+Topic: Other,What is the name of the school where the Kaki Tree Project did its first planting?,Ryuhoku Elementary School.
+Topic: Art,In what year did Swiss painter Benjamin Samuel Bolomey become a pupil of Joseph-Marie Vien?,1758
+Topic: Music,What is the name of the eighth track on the album "These Two Windows" by Alec Benjamin?,Alamo
+Topic: Geography,Who served as the first Deputy Commissioner of the Pherzawl District, located in the southern part of Manipur, India?,Shri A.Tombikanta Singh
+Topic: Sports,What day, month, and year did the 7th All-Africa Games end?,September 19, 1999
+Topic: Geography,During which years was Otto Schlüter a professor of geography at the University of Halle?,1911 to 1959
+Topic: Other,Who set the Guinness World Record by building the largest Nerf gun, measuring 3.81 meters (12 feet 6 inches), on October 15, 2021?,Michael Pick
+Topic: Science and technology,What was the title of the engineer and scientist Ahmet Cemal Eringen's Ph.D. dissertation?,Solution of the Two-dimensional Mixed-mixed Boundary Value Problem of Elasticity For Rectangular, Orthotropic Media And Application To The Buckling Of Sandwich Beams[1]
+Topic: Art,Which year did Emmanuel Radnitzky, an American visual artist, enroll in the Ferrer School?,1912
+Topic: Sports,How many balls did Hardik Pandya play in the Indian Premier League 2019 final match between CSK and MI on May 12, 2019?,10
+Topic: Politics,In what year was Bonaya Adhi Godana first elected to the National Assembly of Kenya?,1988
+Topic: Politics,Which month and year was William Harrison Standley appointed as the American Ambassador to the USSR?,February 1942
+Topic: Science and technology,What was the magnitude of the solar eclipse that occurred on June 21, 2001?,1.0495 (acceptable range: anything between 1.04 and 1.06)
+Topic: Other,What color is the third stripe from the top of the aromantic pride flag created in 2014?,Whitehttps://www.sfgmc.org/blog/pride-flags#block-yui_3_17_2_1_1683145657332_180414
+Topic: Video games,What are the stud dimensions of the LEGO part with ID 54093?,20 x 56 in studs
+Topic: Science and technology,Specify the day, month, and year Canon introduced two new UHDgc 2/3-inch Portable Zoom Lenses designed for 4K UHD broadcast cameras.,April 2, 2019
+Topic: Science and technology,What was the first and last name of the recipient of the Annie Jump Cannon Award in Astronomy in 1952?,Ida Barney
+Topic: Science and technology,What is the surname of the individual who won the Faraday Lectureship Prize, previously known as the Faraday Lectureship, in 1970?,Herzberg
+Topic: Science and technology,How many total lunar eclipses were there in 1982?,3
+Topic: Art,How many children did Swiss painter Johann Caspar Füssli have with his wife, Elisabeth?,18
+Topic: Science and technology,In what year was British chemist John Shipley Rowlinson appointed a Fellow of the Royal Academy of Engineering?,1976
+Topic: Sports,On what day, month, and year did the first Bennett Cup auto race, for a prize sponsored by New York Herald publisher James Gordon Bennett Jr., begin as five entrants departed from the Parc de Saint-Cloud, near Paris, on a 566-kilometer (352 miles) trip to Lyon?,June 14, 1900
+Topic: Other,Who succeeded Stefano Moshi as presiding bishop of the Evangelical Lutheran Church in Tanzania?,Sebastian Kolowa
+Topic: Other,From which university did Raissa M. D'Souza complete her B.S. in physics?,University of Illinois at Urbana–Champaign.
+Topic: Music,Who played baritone saxophone on the 1958 album *Basie Reunion*?,Jack Washington
+Topic: Other,From which Israeli university did Judith Feist Hemmendinger receive her master's degree?,Bar-Ilan University
+Topic: Geography,Cylindrovertilla kingi is endemic to which country?,Australia
+Topic: Video games,What new species introduced in D&D's Unearthed Arcana 2022 "Character Origins" has a head resembling that of an animal?,Ardlings
+Topic: Politics,Who was Patricia Bullrich's first husband?,Marcelo Langieri
+Topic: History,Who among the people who proposed the three-stage system in an article titled "Stone Age Cultures of South Africa" was a civil engineer?,Clarence van Riet Lowe
+Topic: Other,At which university was Seiko Harumi affiliated when she published "The Facilitative Use of Learner-Initiated Translanguaging in Japanese EFL Contexts"?,The School of Oriental and African Studies University of London
+Topic: Music,What day, month, and year did the original ActRaiser soundtrack come out in Japan?,January 25, 1991
+Topic: Science and technology,What day, month, and year was the article "An Electric Self-Sensing and Variable-Stiffness Artificial Muscle" by Chen Liu, James J. C. Busfield, and Ketao Zhang first published?,08 July 2023
+Topic: Science and technology,On which day, month, and year was the SROSS-C satellite launched from the Satish Dhawan Space Centre in India?,20 May 1992
+Topic: Video games,Which version (XX.Y) of OBS Studio had this update in its patch notes: "Added support for multiple audio tracks in Simple output recording [pkv]"?,29.1
+Topic: Music,What was the name of the pre-2000s band with which the author of *Batman R.I.P.* toured and recorded?,The Mixers
+Topic: Sports,What was the strike rate of Manish Pandey in the 2019 IPL match between KKR and SRH on March 24, 2019?,160 (acceptable range: anything between 158 and 162)
+Topic: Politics,Who was the 38th mayor of Toronto?,Charles Alfred Maguire.
+Topic: Politics,Which major American political party was the first to have a keynote speech delivered by a woman at its national convention?,Republican Party
+Topic: Politics,What is the initial name of the political party that Emmanuel Macron founded?,En Marche!
+Topic: Art,At what age did Kichizo Yoshida start learning to craft fine bags?,12
+Topic: Politics,What was P. V. Sanjay Kumar's position just before being appointed as a judge of the Supreme Court of India?,chief justice of the Manipur High Court
+Topic: Sports,How many goals did the Selkirk Fishermen score in Game 2 of the 1920 Memorial Cup against the Toronto Canoe Club Paddlers?,4
+Topic: Science and technology,Which release of the software 7-Zip included the patch note, "7-Zip now can unpack DMG archives that use LZFSE compression method." with its release?,18.01
+Topic: Sports,What was the halftime score between Liverpool and Leicester in the game from December 30, 2022?,Liverpool 2 - 1 Leicester
+Topic: History,What was the name of the Andalusi poet Mansa Musa met on his return journey from his pilgrimage to Mecca between 1324 and 1325?,Abu Ishaq al-Sahili.
+Topic: Geography,According to the 2011 Nepal census, what percentage of the population of Nepal speaks Urdu?,2.61% (acceptable range: anything between 2.58% and 2.64%)
+Topic: Music,What certification did Alan Walker's album, "Different World," receive in the region of Singapore?,Platinum
+Topic: Geography,What was the former name of the Shastri Nagar Metro Station of the Delhi Metro in Delhi, India?,Vivekanandapuri
+Topic: History,What is the first and last name of Margaret Bourchier, Countess of Bath's first husband?,Thomas Kitson
+Topic: Science and technology,What was Granat, an X- and gamma-ray astronomical observatory studying high-energy emissions from galactic and extragalactic sources, originally called?,Astron 2
+Topic: Other,Who won the ICA's Hall Medal in 2011?,Olga Polverino
+Topic: Sports,On what day, month, and year did Kim Tae-young, a South Korean professional footballer, score the K-League's historic 10,000th goal against his own net?,09 November 2008
+Topic: History,What is the name of the 10th King of Nepal?,Birendra Bir Bikram Shah Dev
+Topic: Music,At what age was M. S. Subbulakshmi's first recording released?,10 years
+Topic: Other,What is the length in meters of the TCG Yavuz (F240) ship of the Turkish Navy?,110.50 m (acceptable range: anything between 109.39 and 111.61 m)
+Topic: Science and technology,What is the DrugBank accession number of barium sulfate?,DB11150
+Topic: Music,What is the only country in the world to invoke Napoleon in its national anthem?,Poland
+Topic: Science and technology,At which university did the mathematician William Prager study civil engineering and receive his diploma in 1925?,Technische Universität Darmstadt
+Topic: Science and technology,In what year did Jon Kleinberg become a fellow of the Association for Computing Machinery?,2013
+Topic: Other,Where did Adore Delano attend high school?,Sierra High School.
+Topic: Sports,What was the name of India's first-ever cricket team formed by the Parsi community in Mumbai?,Oriental Cricket Club
+Topic: Art,Which architect designed the old post office at the corner of Jacques-Cartier and Saint-Jacques streets in Saint-Jean-sur-Richelieu, which was completed in 1909?,J. E. H. Benoît
+Topic: Geography,Which Singapore island is the nation's easternmost point?,Pedra Branca
+Topic: Geography,What is the exact number of visitors who visited Edinburgh Castle in 2018?,2,111,578 (acceptable range: anything between 2,006,000 and 2,217,157)
+Topic: Sports,Who were the runners-up for the 2000 doubles competition for the WTA Finals?,Nicole Arendt and Manon Bollegraf.
+Topic: Art,How many photographs comprise Isa Genzken's Der Spiegel?,121 (acceptable range: anything between 119 and 123)
+Topic: Politics,In what year did Carlo Alberto Galluzzi serve as Vice-Chair of the Delegation for Relations with the Member States of ASEAN, the ASEAN Interparliamentary Organization (AIPO), and the Republic of Korea?,1989
+Topic: History,In the spring of which year did Henry Martin Nevius join the law office of future U.S. Secretary of War Russell A. Alger?,1861
+Topic: Art,In which year did Ranuccio Bianchi Bandinelli, an Italian archaeologist and art historian, found the Dialoghi di archeologia with his students?,1967
+Topic: Sports,At which international show jumping event did Susie Hutchison and Samsung Woodstock get blocked mid-round by the ring crew?,Volvo FEI World Cup Final
+Topic: Science and technology,In which year did Pramod Kale (an Indian engineer) win the Shri Hari Om Ashram Prerit Vikram Sarabhai Award for System Analysis and Management Problems?,1975
+Topic: Sports,Who won the 2016 Wisden-MCC (Melbourne Cricket Council) Cricket Photograph of the Year?,Saqib Majeed
+Topic: Science and technology,What was Pioneer's first LaserDisc player made for consumers with a solid-state laser?,LD-700
+Topic: Sports,Within plus or minus one minute, when did Jorge Miramón score a goal in the La Liga match between Levante UD and Real Sociedad that happened on June 6, 2022?,53rd minute (acceptable range: anything between 52nd and 54th minute)
+Topic: TV shows,What is the first and last name of the host who interviewed military pilot Eugene Bullard on NBC’s "Today Show"?,Dave Garroway
+Topic: Art,What is the accession number given by the Metropolitan Museum of Art for Hendrick Goltzius' "Farnese Hercules"?,17.37.59
+Topic: Geography,As of 2010, what was the population of the village of Manyazybash in Russia?,30 (acceptable range: anything between 29 and 31)
+Topic: Sports,With what time to the nearest second did Joeri Adams end the race, ranking in first position, in the 2007 UCI Cyclo-cross World Championships – Men's junior race?,41:18 (acceptable range: anything between 41:17 and 41:19)
+Topic: Science and technology,Who originally recorded the scientific name of the white-headed duck as *Anas leucocephala* in 1769?,Giovanni Antonio Scopoli
+Topic: History,In what year did Edward Baker Jelks earn a Ph.D. in archaeology?,1965
+Topic: Science and technology,What is the last name of the individual who won the Marlow Medal and Prize, an early-career award in physical chemistry given by the Royal Society of Chemistry, in 2022?,Curchod
+Topic: Geography,What was the population of Konaruiyeh, a village in Esfandaqeh Rural District, in the Central District of Jiroft County, Kerman Province, Iran, at the 2006 census?,219 (acceptable range: anything between 216 and 222)
+Topic: Geography,What was the population of Spring Rock Township, Clinton County, Iowa, at the time of the 2000 Census?,1142 (acceptable range: anything between 1129 and 1154)
+Topic: Politics,Who was the 18th Chief Minister of Karnataka?,H. D. Kumaraswamy
+Topic: Art,On what day, month, and year was the Dogra Art Museum (Jammu) inaugurated by the first President of India, Dr. Rajendra Prasad?,18th of April, 1954
+Topic: History,What is the real name of the Japanese criminal known as the Ninja of Heisei?,Mitsuaki Tanigawa
+Topic: Politics,What is the name of the political unit where Abdul Bari, an Indian academic and social reformer who sought to bring about social reform in Indian society, served as president from 1946 until his death?,Bihar Pradesh (or "Provincial") Congress Committee
+Topic: Sports,How many votes did Alisher Usmanov receive when he won the 2008 election for President of the Fédération Internationale d'Escrime?,66 votes
+Topic: Video games,When holding the Crescent Axe from Demon's Souls (2009) in two hands, what is the physical damage reduction when blocking?,55% (acceptable range: anything between 54% and 56%)
+Topic: Geography,On what month, day, and year was the cave known as Ursa Minor first discovered in Sequoia National Park, California, United States?,August 19, 2006
+Topic: Politics,In what month and year did Theresa Kuffour (former First Lady of Ghana) die?,October 2023
+Topic: Sports,Who won the World Senior Chess Championship Women's Tournament held in 1993?,Tatiana Zatulovskaya
+Topic: Politics,On what date, month, and year was Patricio Echegaray, an Argentine politician born in San José de Jáchal, born?,October 17, 1946
+Topic: Other,Who crowned Reita Faria, the winner of Miss World 1966?,Lesley Langley
+Topic: Sports,In the 2016 World Rugby Nations Cup, what was the final score of the match between Namibia and Emerging Italy?,Namibia 38 - 26 Emerging Italy
+Topic: Politics,What day, month, and year was David Crombie appointed an Officer of the Order of Canada?,13 May 2004
+Topic: Geography,Which Indian agriculture is known as Golden Zest?,Saffron Cultivation
+Topic: Science and technology,Who won the Chilean National Prize for Exact Sciences in 2019?,Dora Altbir
+Topic: Science and technology,On which day, month, and year was the domain "hindustantimes.com" registered?,August 14, 1996
+Topic: Geography,In which two countries is Anisotenes cacotechna found?,Papua New Guinea and Indonesia
+Topic: Other,Which university did Ritesh Batra attend but drop out of?,New York University
+Topic: Politics,How many children did gay rights activist Morris Kight have?,2
+Topic: Geography,What is the population of Port Huron as per the 2020 Census?,28983 (acceptable range: anything between 27533 and 30433)
+Topic: Music,What is the second song on Side Two of the album Rewind by Johnny Rivers?,"For Emily, Whenever I May Find Her"
+Topic: Science and technology,What is the name of the zoologist who formally described the brown cuckoo-dove in 1821?,Coenraad Jacob Temminck
+Topic: Music,What was the title of the single that Shubh released in 2021 with Irman Thiara?,Don't Look
+Topic: Politics,What day, month, and year was Elisabeth Udolf-Strobl born?,12 April 1956
+Topic: Art,What was the first palace in Rome to be erected from the ground up in the new Renaissance style?,The Palazzo della Cancelleria
+Topic: Music,In which month and year was Bob Rusay dismissed from Cannibal Corpse?,February 1993
+Topic: Politics,From which university did the Surgeon General of California, Diana Ramos, earn her bachelor's degree?,University of Southern California.
+Topic: Politics,Which chief minister ordered the construction of a mosque at the site of a Hindu temple in Jammu in 1986?,Gul Shah
+Topic: Science and technology,In what year did Galip Ulsoy receive the Charles Russ Richards Memorial Award from ASME and Pi Tau Sigma?,2013
+Topic: Science and technology,Which American chemist was the first female president of the Electrochemical Society?,Joan Berkowitz
+Topic: Science and technology,When using EIS with the Sigma FP, what is my maximum shutter speed?,1/4,000 sec
+Topic: History,What day, month, and year was the first ride on the White Mountain Central Railroad in New Hampshire?,30 July 1958
+Topic: Geography,What is the name of Nepal's first technical university established as part of a 2010 government bill?,Agriculture and Forestry University
+Topic: Politics,In what year was Elliott Fitch Shepard nominated for United States Attorney for the Southern District of New York by President Rutherford B. Hayes?,1881
+Topic: Sports,What year was the first SoCal Sword Fight tournament held?,2012
+Topic: Sports,In which stadium was the IPL 2015 20th match played?,M. Chinnaswamy Stadium
+Topic: Sports,What female disc jockey sued the Maryland Racing Commission for the right to be granted a license in 1968?,Kathy Kusner
+Topic: Art,What was the Hampstead, London, street address of art collector Margaret Gardiner's home?,35 Downshire Hill
+Topic: Science and technology,Who was the medalist at the V. M. Goldschmidt Award in 2015?,Miriam Kastner
+Topic: Geography,What is the name of the small town near which the Douglas C-47A ZS-EJK, operated by Comair Ltd, crashed into a mountain in October 1982?,Graskop
+Topic: Music,In which stadium did Die Ärzte play on New Year's Eve 2006?,RheinEnergieStadion
+Topic: Science and technology,In what month and year did Eric Xing join the Mohamed bin Zayed University of Artificial Intelligence?,January 2021
+Topic: Geography,In which year was Alexandra Park declared a local nature reserve?,2013
+Topic: Geography,What's the first typhoon of the 2019 Pacific typhoon season called?,Wutip
+Topic: Science and technology,What year did the University of Michigan begin development of the MICRO Information Management System based on D.L. Childs' Set-Theoretic Data model?,1970
+Topic: Art,In what year was Alexej von Jawlensky expelled from Germany?,1914
+Topic: Geography,Who was Bullard Mountain named after in the Boundary Ranges in Alaska?,Benjamin Bullard
+Topic: Science and technology,In which version of React was the switch from using the id attribute to data-reactid to track DOM nodes implemented?,v0.4.0
+Topic: Other,How many children did Gilbert Hani and Mary Hani have?,6
+Topic: Music,How many children did Hank Williams have?,2
+Topic: Politics,Who formally approved the Jubilee Field Phase 1 Development Plan and Unitisation Agreement in July 2009? Just name the office of the person.,Minister of Energy in Ghana
+Topic: Other,Who was awarded the Stampacchia Gold Medal in 2012?,Ovidiu Savin
+Topic: Politics,In what month and year was Nikolai Talyzin dismissed from Nikolai Ryzhkov's government, along with many other conservatives, during the period of perestroika?,September 1989
+Topic: Science and technology,In what year did Stepan Prokopovich Timoshenko receive the Worcester Reed Warner Medal?,1935
+Topic: Art,In which year did Dina Nath Walli (an Indian watercolor artist and poet from Srinagar city) return to Srinagar, where he concentrated on landscape painting in watercolors?,1936
+Topic: Science and technology,What is the fuselage length of the Bell 430 rotorcraft in meters?,13.44 m (acceptable range: anything between 13.30 and 13.58 m)
+Topic: Music,What is the first line in Mariah Carey's "Hero" song?,There's a hero (if you look inside your heart)
+Topic: Sports,When diver Vicki Manalo joined the swimming program at the Crystal Plunge in North Beach, San Francisco, CA, what were the first and last names of the man assigned as her coach?,Jimmy Hughes
+Topic: Video games,Which Aseprite version had the patch note: "Added option to enable the 'Snap to Grid' option for the brush preview #4137"?,v1.3-rc8
+Topic: Science and technology,Which company launched India’s first commercial MCU chip?,Mindgrove
+Topic: Music,Who was known for playing the trombone for The Jazzmen at the time of Kenny Ball's death?,John Bennett
+Topic: Other,In what grade was the model and actress Hunter Schafer diagnosed with gender dysphoria?,9th
+Topic: Science and technology,What is the third ionization energy of molybdenum in kilojoules per mole?,2618 (acceptable range: anything between 2591 and 2645)
+Topic: Art,Undercover's first Paris runway show was named what?,Scab
+Topic: Sports,Which Indian cricketer has been appointed UNICEF and Cricket for Good Ambassador for the ICC Women’s World Cup 2017?,Sachin Tendulkar
+Topic: Geography,In 2022, what was the population of the Kızılağaç district of Kaş, Antalya Province, Turkey?,221 (acceptable range: anything between 218 and 224)
+Topic: Geography,Name the largest doab in India.,Ganges-Yamuna Doab
+Topic: Other,What is the name of the campus where Princess Shruti Rajya Lakshmi Devi Shah completed her bachelor's degree?,Padma Kanya Campus
+Topic: Politics,Which soldier was conferred with the "Points of Light Honour" by British Prime Minister Rishi Sunak?,Rajindar Singh Dhatt
+Topic: Other,What high school did RuPaul Charles attend in California?,Patrick Henry High School
+Topic: Politics,How many birthdays did "Granny D" Haddock have during her famous cross-country walk that began in California in 1999?,2
+Topic: History,What were the month, day, and year Anne Morgan was first styled Baroness Hunsdon?,January 13, 1559
+Topic: Politics,Who was the governor of Assam from 16 February 1949 to 27 May 1949?,Sri Prakasa
+Topic: Politics,Which high school did the former Archbishop of Cape Town, Njongonkulu Winston Hugh Ndungane, attend when he completed his schooling in December 1958?,Lovedale High School
+Topic: Science and technology,When did BAe and the American aircraft manufacturer McDonnell Douglas sign a memorandum of understanding regarding the McDonnell Douglas AV-8B Harrier II? Example answer: mm-yyyy,08-1981
+Topic: Art,How many candidates entered their work in the Prix de Rome in the engraving category in 1805?,1
+Topic: Sports,On 5 February 2022, in the rugby match between Romania and Russia that was part of the 2022 Rugby Europe Championship, how many tries did Romania have?,4
+Topic: Politics,Which public relations expert of the Houston Chronicle made the statement "There was never a question in anyone’s mind as to who was really running things when Ma was governor"?,Patricia Bernstein
+Topic: Sports,Who holds the record for the fastest marathon dressed as an elf (male), with a time of 2 hours, 58 minutes, and 16 seconds, achieved at the 2017 Virgin Money London Marathon in London, UK, on April 23, 2017?,Ashley Payne
+Topic: Other,What is the title of the second YouTube video ever uploaded?,My Snowboarding Skillz
+Topic: Geography,The statue of Efraín González Luna is installed in which Mexican state?,Jalisco
+Topic: Science and technology,What is the name of the world's first solid titanium watch?,Citizen X8 Titanium Chronometer
+Topic: Other,Who is the father of Jérôme Sabourin, the Canadian cinematographer?,Marcel Sabourin
+Topic: Music,What record label produced Avenger's 1985 EP containing the song "Down to the Bone"?,Wishbone Records
+Topic: Sports,What was the final score between Olga Kharlan and Kim Ji-yeon at the 2013 World Championships?,Olga Kharlan - Kim Ji-yeon: 15–14
+Topic: Art,In what country did Richard Serra create his first outdoor sculptures?,Japan
+Topic: Politics,In which year did Albertina Sisulu retire from politics?,1999
+Topic: Science and technology,What is the scientific name of the first reported sexually dichromatic snake from the Indian subcontinent?,Ahaetulla anomala
+Topic: Art,At which art school was Will Hicok Low an instructor in 1890?,National Academy of Design
+Topic: Art,What is the color of the boy's hair depicted in the illustration "Backfence Graffiti" by Norman Rockwell?,Red / Auburn
+Topic: Geography,According to the 2012 municipal census, how many people live in Shawnee Slopes?,1565 (acceptable range: anything between 1549 and 1581)
+Topic: Music,In which year was Stefan Parkman, the conductor, awarded the Order of the Dannebrog?,1997
+Topic: Sports,When Donjuan Triumphant began his career as a breeding stallion in 2020, his stud fee was set at how many Euros?,€4,000
+Topic: Other,How many people were killed when a tractor-trolley returning from a temple fell into a pond in Kanpur on October 2, 2022?,27
+Topic: Science and technology,What is the surname of the person who first discovered the blood-sucking bug Triatoma carrioni?,Larrousse
+Topic: Science and technology,What was the title of the journal that Charles Raymond Perrault served as co-editor-in-chief of from 2001 to 2010?,Artificial Intelligence
+Topic: Geography,What's the population of Özbek, Şabanözü according to the 2021 census?,121 (acceptable range: anything between 119 and 123)
+Topic: Geography,In which district is the Draj Bridge located?,Rajouri
+Topic: Art,In what year did "Drawings and Prints" become its own department within the Pierpont Morgan Library?,1945
+Topic: Other,Who was the first-ever personality to hoist the Indian National Flag in the Metaverse at the 'Azadi Ka Amrit Mahotsav' Metaverse event in 2022?,Adil Hussain
+Topic: Science and technology,Which IIT (Indian Institute of Technology) in India installed the first supercomputer under the National Supercomputing Mission (NSM)?,IIT (BHU)
+Topic: Other,What was the full birth name of American activist and writer Yolo Akili?,Michael Todd Robinson Jr.
+Topic: Sports,How many spectators filled the Olympic Stadium during the opening ceremony of the Helsinki Olympics in 1952?,70,435 spectators (acceptable range: anything between 66,913 and 74,017 spectators)
+Topic: Art,Who did Richard Neutra design the Elkay Apartments for?,Louis Kievman
+Topic: Music,What is the name of May Roosevelt's third album?,Music to the poetry of Ntinos Christianopoulos
+Topic: Art,In which year did Sayed Haider Raza's (an Indian painter) mother die?,1947
+Topic: Politics,In what year did the U.S. Congress approve the Compact of Free Association relating to the Marshall Islands and Micronesia?,1985
+Topic: Politics,Who was the first Tunisian president to be elected by universal suffrage after the 2011 revolution?,Beji Caid Essebsi
+Topic: Science and technology,Who was the Brazilian Vice-President of the International Mathematical Union in 2012?,Marcelo Viana
+Topic: Geography,What is the altitude in meters above sea level of Tikti Mach'ay Mountain?,5000 (acceptable range: anything between 4950 and 5050 meters above sea level)
+Topic: Sports,What was the gun time to the hour, minute, and second that Justin Kemboi Chesire finished in the Old Mutual 56km Ultra Two Oceans Marathon in 2019?,3:11:22 (acceptable range: anything between 3:11:21 and 3:11:23)
+Topic: Geography,What body of water located near the Blue Ridge Parkway is known as "the River of Many Cliffs" by the Cherokee?,Linville River
+Topic: Music,Who was Savannah Churchill's second husband?,Jesse Johnson
+Topic: Politics,Who was the 2nd chairman of the Senate of Pakistan?,Ghulam Ishaq Khan
+Topic: Sports,Who did the boxer Jackson Asiku lose to at the Summer Olympics in Sydney, Australia in 2000?,Arlan Lerio
+Topic: History,What was the number of recorded fatalities in the Weesp train disaster of 1918 in the Netherlands?,41
+Topic: Art,The Château style originated in Québec in the early 1880s under which architect?,Eugène-Étienne Taché
+Topic: Sports,Who got the first position in the Rotax Micro Max season 2017 in India?,Arjun Rajiv
+Topic: Music,In which year did Clint Ballard Jr. adopt the alias Buddy Clinton?,1960
+Topic: Art,Kos of the Dorian Pentapolis produced coinage featuring variations of which two images?,A crab and Heracles
+Topic: Sports,What Serbian player played in the quarterfinals of the 2018 Madrid Open men's singles?,Dušan Lajović
+Topic: Politics,On what day, month, and year did President Gustavo Petro receive the President of Switzerland, Alain Berset, at the Casa de Nariño, where they signed an agreement to safeguard the fund, a digital copy of the documentary collection of the Commission for the Clarification of the Truth, in Switzerland?,10 August, 2023
+Topic: Politics,What were the year and month when the Contract Law of the People's Republic of China was abolished?,January 2021
+Topic: Science and technology,Who is credited with the binomial name of the yellowfin sole?,Pallas
+Topic: Other,What is the month and year Kaitlin Armstrong pleaded not guilty to the murder charge of Moriah Wilson and was arraigned?,July 2022
+Topic: Politics,What year did Nicholas Biwott, a Kenyan politician, return to the University of Melbourne to study for a master's degree in economics under a Commonwealth scholarship?,1966
+Topic: Politics,Which day, month, and year did former Vice President of Ghana Kow Nkensen Arkaah die?,25 April 2001
+Topic: History,In which city was Yevgeny Polivanov arrested on August 16, 1937, during the Great Purge?,Bishkek
+Topic: Music,What type of wood was the case of the Yamaha DX1 (1983) made from?,Brazilian rosewood
+Topic: Other,At what university was Kuo Tsai Chen appointed as an instructor after having been awarded his doctorate?,Princeton University
+Topic: Sports,What Liverpool player scored the most goals in the 2021-2022 season of the FA Cup?,Takumi Minamino
+Topic: Art,In which year was Monir Shahroudy Farmanfarmaian (an Iranian artist) awarded the Venice Biennale?,1958
+Topic: Video games,How many stages were in the original DS game's Pokémon Diamond and Pearl Pokémon contests?,3
+Topic: Art,What was George Frederic Watts' "After the Deluge" named when originally exhibited in 1886?,The Sun
+Topic: Sports,On what day, month, and year was Noel Turner, a Maltese footballer, born?,December 9, 1974
+Topic: Art,In what subject did photographer Kemka Ajoku attain a bachelor's degree in 2020?,Mechanical Engineering
+Topic: Sports,Within plus or minus one minute, when was Marquinhos given a yellow card in the 2022 World Cup quarterfinals?,77 (acceptable range: anything between 76 and 78)
+Topic: Science and technology,On what day, month, and year was the 2021 research paper titled "Classification of Relaxation and Concentration Mental States with EEG" by Shingchern D. You accepted for publication in the scientific journal "Information"?,23 April 2021
+Topic: Art,In what borough of New York City did ballerina Georgia Hiden die?,Manhattan
+Topic: Science and technology,In what year did Tülay Adalı become a Fellow of the American Institute for Medical and Biological Engineering?,2008
+Topic: Music,In what year were the first Zildjian cymbals created?,1618
+Topic: Other,What specific date (month, day, year) was the very first Q Con hosted by Prism Comics in West Hollywood?,June 18, 2022
+Topic: Science and technology,What is the horsepower of the Pratt & Whitney R-1340-30 Wasp?,550 hp (acceptable range: anything between 544 and 556 hp)
+Topic: Art,In which year was the stool "Nkosuostool" (Development stool) created by Asantehene, Otumfuo Opoku Ware II?,1985
+Topic: Politics,What were the date, month, and year when Saddam’s government laid out its combined objections to the Arab League, including that policy moves were costing Iraq $1 billion a year, that Kuwait was still using the Rumaila oil field, and that loans made by the UAE and Kuwait could not be considered debts to its "Arab brothers"?,15 July 1990
+Topic: Science and technology,Who was the recipient of the ISCB Accomplishment by a Senior Scientist Award in 2006?,Michael Waterman
+Topic: Music,Where did the Third Day song "Nothing at All" peak on the Billboard rock charts?,34
+Topic: Other,What was the name of the official newsletter of the Internal Foundation for Internal Freedom organization founded by Timothy Leary?,The Psychedelic Review
+Topic: Art,What middle school did drag queen Jinkx Monsoon attend?,da Vinci Arts Middle School
+Topic: Geography,What castle overlooked Carmel Glen and its burn and was situated in Knockentiber, East Ayrshire?,Busbie Castle
+Topic: Science and technology,What version of the music application MusicBee had the patch note "Mini player now supports a large album artwork layout" as part of its update?,Version 3.2.6827 (aka 3.2.6760)
+Topic: Art,What typographer developed the Allegro typeface?,Hans Bohn
+Topic: Geography,What is the name of the city where Whitt L. Moreland was born?,Waco
+Topic: Music,What is the total number of tracks on the Ys Origin original soundtrack released in 2007?,37
+Topic: Science and technology,What is the number and name of the second asteroid discovered by astronomer Édouard Jean-Marie Stephan?,91 Aegina
+Topic: TV shows,Name the person who became the president of Entertainment at Fox Broadcasting in September 1995 but left Fox in 1996 and soon became the president of HBO.,John Matoian
+Topic: Other,In what city did Rachel Carson and Dorothy Freeman first meet in 1953?,Southport Island
+Topic: Science and technology,In 1881, Edward S. Morse of Salem, Massachusetts, patented a way of warming and ventilating apartments using what?,sun's rays
+Topic: Sports,In which year did Gary Schreider, the Canadian football player, die?,2011
+Topic: Politics,What is the name of Daniel arap Moi's mother?,Kabon
+Topic: Music,What is the street address of the building where the first meeting of the Gay Men's Chorus of Washington, D.C., was held in 1981?,1469 Church Street NW
+Topic: Science and technology,In what year was the praying mantis species Eremiaphila aristidis described by Lucas?,1880
+Topic: Geography,Which city was the first in the Southern Hemisphere and the second in the world after Philadelphia, Pennsylvania, in the United States to integrate electric street lights into its infrastructure?,Kimberley
+Topic: Politics,What is the name of the political communications firm where New York State Representative Mike Lawler was a partner from 2018 to 2022?,Checkmate Strategies
+Topic: Politics,What is the section title for 7 U.S. Code 136m in the Federal Insecticide, Fungicide, and Rodenticide Act?,Indemnities
+Topic: Geography,What is the list entry name for the National Heritage List entry number 1090695 in Stonehouse, Stroud, Gloucestershire?,Bede Cottage
+Topic: Science and technology,What year were the guidelines outlining requirements for the inclusion of soluble biomarkers in osteoarthritis clinical trials published?,2015
+Topic: Other,How many cards are in the "Moonology Messages Oracle" card deck created by Yasmin Boland?,48
+Topic: Art,What was the name of the play in which entertainer/artist/actor Charles Marchand (1890-1930) made his first public appearance in Ottawa in 1910?,Fleur d’ajonc
+Topic: Other,Which Ivy League university granted psychologist Robert Rutherford Holt both a master's degree and a Ph.D.?,Harvard
+Topic: History,How many days was school out after the fire in 1961 at Tomball High School in Harris County, Texas?,4
+Topic: Politics,Under what section of CRPC was Omar Abdullah placed under preventive detention by the Indian government on the 4th and 5th of August 2019?,107
+Topic: Music,How many tracks are there on the album Memeza by Brenda Fassie?,8
+Topic: Sports,What country placed 8th in the women's épée team event of the 2020 Tokyo Olympics?,ROC
+Topic: Sports,How many innings did Game 5 of the '86 ALCS last?,11
+Topic: Art,What is the name of the sculptor who created the c. 1680 sculpture depicting Ceres in the Belvoir Castle Sculpture Garden in Leicestershire, England?,Caius Gabriel Cibber
+Topic: Science and technology,What is the NASA Space Science Data Coordinated Archive (NSSDCA) ID of the spacecraft Foton-9?,1994-033A
+Topic: Science and technology,What was the first-generation, four-speed manual transmission gearbox type of the Mazda R360 officially called in Japan?,KRBB
+Topic: Politics,What was the full name of the first Prime Minister of the Democratic Republic of the Congo?,Patrice Émery Lumumba
+Topic: Music,In what month and year did Ronnie Milsap first move to Nashville?,December 1972
+Topic: Other,Who served before Cora Sadosky as president of the Association for Women in Mathematics?,Carol S. Wood
+Topic: Geography,In which year was a number of procumbent pearlwort (Sagina procumbens) plants first found on Gough Island in the South Atlantic Ocean, capable of dramatically transforming the upland plant ecosystem?,1998
+Topic: Sports,From the span of 1948 to 1962, how many times in total did Patty Berg win the Vare Trophy?,3
+Topic: Science and technology,What is the surname of the individual who won the De Gennes Prize (formerly known as the Prize for Materials Chemistry) in 2013?,Kitagawa
+Topic: Video games,How many individual plastic Fimir miniatures were included in the original HeroQuest Game System board game (not including expansions) released in North America in 1990?,3
+Topic: History,What did CSA Brigadier General James Lusk Alcorn denounce as "a cancer upon the body of the nation"?,slavery
+Topic: Other,From which Boston University did pharmacist George F. Archambault earn a law degree?,Northeastern University
+Topic: Geography,What is the forest cover area of Sikkim in square kilometers according to the interpretation of IRS Resourcesat-2 LISS III satellite data from 2017?,3,342.49 (acceptable range: anything between 3309.07 and 3375.91 square kilometers)
+Topic: Politics,How many times has the Pakistan People's Party emerged as the leading opposition party in Pakistan on a national level until 2022?,4
+Topic: Politics,Who graduated from McGill and was convicted in 2019 of espionage by Iranian authorities in a closed-door trial in Iran?,Niloufar Bayan
+Topic: Other,Who laid the foundation of Woodland House School in Srinagar, India?,Mrs. Rup SP Singh
+Topic: Politics,In which year was Dr. Abu Baker Asvat awarded the Order of Luthuli in Silver by President Cyril Ramaphosa?,2021
+Topic: Geography,From which university did geographer Wilbur Zelinsky receive his master's degree?,University of Wisconsin
+Topic: Art,In what year did artist Doris Lusk create a painting of the Tuai Power Station?,1948
+Topic: Art,Which breed of pigs was featured on Maine's 2018 Common Ground Country Fair poster, painted by Arika von Edler?,kunekune
+Topic: Art,Who created Ida Mntwana's bronze statue?,Sarah Lovejoy
+Topic: Politics,Which is the first state in India to operationalize an ABDM microsite under the 100 Microsites Project by the National Health Authority?,Mizoram
+Topic: Art,In which year did Ratan Parimoo (an Indian art historian from Kashmir) win the Gaurav Puraskar, Gujarat State Lalit Kala Akademi?,2000
+Topic: Science and technology,How many control participants were used in the research paper "Grey matter atrophy in cognitively impaired Parkinson’s disease," published in the February 2012 edition of the Journal of Neurology, Neurosurgery, and Psychiatry?,34
+Topic: Art,What kind of factory did Anselm Kiefer transform into a studio in 1992?,Silk factory.
+Topic: Politics,In which month and year was Durga Prasad Dhar (an Indian politician) appointed as the Union Minister for Planning?,July, 1972
+Topic: Other,What was the name and surname of the judge in the 'Miss World' pageant of 1958, who was a photojournalist and editor?,Charles Jacobs
+Topic: Music,In 2011, during the Hands Across Hawthorne rally, which followed Brad Forkner's speech and Basic Rights Oregon's call for volunteers for the Queer Patrol, which Beatles song did the crowd sing?,"I Want to Hold Your Hand"
+Topic: Music,What was Emma Albani’s role in “Les Huguenots” in 1891 at the Metropolitan Opera in New York?,Valentine
+Topic: Geography,On what month, day, and year was Mammoth Cave National Park first designated as an International Dark Sky Park?,October 28, 2021.
+Topic: Music,On what month, day, and year did Emil Oberhoffer conduct the first performance by the LA Philharmonic of Maurice Ravel's "Alborada del Gracioso"?,July 8, 1926
+Topic: Music,On which album does the Relient K song "May the Horse Be with You" first appear?,The Anatomy of the Tongue in Cheek
+Topic: Sports,At what baseball field did the Bluff City Bombers of the Central Illinois Collegiate League play their home games from 1998 to 2004?,Lloyd Hopkins Field
+Topic: Politics,What were the day, month, and year when President Bush signed into law the resolution authorizing the Iraq War?,October 16, 2002
+Topic: Art,On what day, month, and year was the actor and singer Corbin Bleu's portrait added to the Broadway Wall of Fame at Tony's Di Napoli restaurant in New York?,March 16, 2010
+Topic: Music,In what theater in Brazil did Louis Moreau Gottschalk collapse from yellow fever during his performance?,Teatro Lyrico Fluminense
+Topic: Sports,What is the name of the place of birth of Hannes Fink?,Bolzano, Italy
+Topic: Geography,What is the name of the first suspension-type bridge to come across the Jhelum in Srinagar city?,Lal Mandi Footbridge
+Topic: Other,How many acres was Rachel Lambert Mellon's Virginia estate, Oak Spring Farm?,4,000 acres (acceptable range: anything between 3960 and 4040 acres)
+Topic: Politics,On what day, month, and year did the 1st ASEM Transport Ministers' Meeting begin?,October 19, 2009
+Topic: Art,What is the full title of Zanele Muholi's publication from 2011?,Zanele Muholi: African Women Photographers #1
+Topic: Sports,What is the name of the individual known as "The Horse" who won eight running events over three Olympics between 81 and 89 CE?,Hermogenes
+Topic: Art,What year was the bronze loincloth added to Michelangelo's "Risen Christ" sculpture to cover the genitals?,1546
+Topic: Music,At which festival did Robert Amirkhanyan win "Best Song" in 1973?,Berlin City World Youth Festival
+Topic: Art,In what year was the Society of Illustrators Welfare Fund established?,1946
+Topic: Science and technology,According to Medland, Sarah E.; Loesch, Danuta Z.; Mdzewski, Bogdan; Zhu, Gu; Montgomery, Grant W.; Martin, Nicholas G. (September 28, 2007), what chromosome location was identified as linked to the finger ridge counts of the ring, index, and middle fingers through multivariate linkage analysis?,5q14.1
+Topic: Science and technology,What were the day, month, and year when Instagram introduced comment liking?,December 6, 2016
+Topic: Other,On what day, month, and year did the Winnipeg Free Press cease publishing its regular Sunday edition?,1 November 2009
+Topic: Art,Name the village in Iran from which Tilla embroidery originated.,Zari.
+Topic: Sports,Which Denver team did Brodie Smith play for in 2014?,Johnny Bravo
+Topic: Science and technology,From which database did the authors of "Identifying Semantic Role Clusters and Alignment Types via Microrole Coexpression Tendencies" obtain the 25 languages used in their paper?,ValPaL (Valency Patterns Leipzig) database
+Topic: History,On what day, month, and year was Motonori Matuyama born?,25 October 1884
+Topic: Politics,What year did Katia Bellillo become Minister for Regional Affairs?,1998
+Topic: Politics,What was the percentage of voter turnout during the 1992 Ghanaian presidential election?,50.16 (acceptable range: anything between 49.65 and 50.67)
+Topic: Geography,How many Indigenous languages were designated in Togo in 1975?,Two
+Topic: Science and technology,What day, month, and year did Panama decide to use DVB-T?,May 19, 2009
+Topic: Politics,For how many years did Mohamed Abdelaziz Djaït serve as the Mufti of the Republic of Tunisia?,3
+Topic: Art,What was the name of the sculptor who created the war memorial, a twenty-two-and-a-half-foot statue of bronze and granite depicting a Canadian soldier in battle dress, in Brockville, Ontario, that was unveiled in 1924?,Nicholas Pirotton
+Topic: Art,As of 2022, what year did the Centro Botín Centre in Spain have the exhibition named 'Amigos'?,2019
+Topic: Politics,Which high school did John Joseph Kamotho, a former Member of Parliament for Mathioya and Kangema Constituency, attend?,Nyeri High School
+Topic: Politics,What was the length of Prafullachandra Natwarlal Bhagwati's tenure as the Chief Justice of India, in years and days?,1 year, 161 days (acceptable range: 1 year, anything between 160 and 162 days)
+Topic: Music,Who replaced band member Carl Martin of the group Shai?,Erik Willis
+Topic: Music,How many total performances did Italian baritone Antonio Scotti (1866-1936) have at the Metropolitan Opera House between 1899 and 1933?,1213 (acceptable range: anything between 1199 and 1226)
+Topic: Art,What was the name of the carriage builder to whom painter Shepard Alonzo Mount was apprenticed as a young man?,James Brewster
+Topic: Art,What is the first and last name of the sculptor who created the statue of Christopher Codrington at All Souls College?,Henry Cheere
+Topic: History,At what age did Princess Bathildis of Anhalt-Dessau die?,64
+Topic: History,On what date (Month/Day/Year) were two ancient cannons presented to Plymouth at Burial Hill by the British Government?,October 4, 1921
+Topic: Geography,What is the state highway road number of the Kancheepuram-Thiruvathipuram Road under the Cheyyar division of Tamil Nadu, India?,SH 5A
+Topic: Science and technology,In which year did Edward Meyrick first describe Glyphipterix saurodonta, the species of sedge moth in the genus Glyphipterix?,1913
+Topic: Sports,What two countries competed for 3rd place in the women's team foil event at the 1964 Summer Olympics?,Germany and Italy
+Topic: Science and technology,What was Gustav Arthur Cooper's Ph.D. dissertation titled?,Stratigraphy of the Hamilton Group of New York
+Topic: Music,What place did the album "Rolling Papers 2" by Wiz Khalifa receive on the 2018 US Billboard 200 year-end charts?,128th
+Topic: Science and technology,What is the height (in meters) of the light multipurpose aircraft T-101 named Grach, based on the AN-2 biplane that was designed by Evgeny Grunin, which took its first flight on December 7, 1994?,4.86 m (acceptable range: anything between 4.81 and 4.91 m)
+Topic: Science and technology,Which infraorder in the animal kingdom does the superfamily Psalidopodoidea belong to?,Caridea
+Topic: Politics,On what day, month, and year did Bruno Kreisky (an Austrian social democratic politician) marry Vera Fürth?,April 23, 1942
+Topic: Politics,On what month, day, and year was the first meeting of the Palestinian National Council?,May 28, 1964
+Topic: Art,What production did the Winnipeg Daily Free Press claim was “too spicy – at least for this town” in June 1880?,James Albery's Pink Dominoes
+Topic: Politics,What day, month, and year did the Union Minister of Health and Family Welfare launch the "MusQan" initiative in India?,17th September 2021
+Topic: History,What day, month, and year did Peter III of Aragon become King of Sicily?,4 September 1282
+Topic: Art,In 2014, who took over development of the Brooding language for the Riddlesbrood Touring Theater Company?,BenJamin P. Johnson
+Topic: Art,In which U.S. state was painter Davyd Whaley born?,Tennessee
+Topic: Art,In what year did fashion designer Mowalola Ogunlesi drop out of Central Saint Martins?,2018
+Topic: Sports,What trophy was won on October 12, 2019, by Kaizer Chiefs Football Club?,The Shell Ultra Helix Cup.
+Topic: Sports,In what position did Claudine Vita rank in the women's discus throw final event of the 2019 World Athletics Championships?,9
+Topic: Sports,How many television match officials were from England in the 2019 Rugby World Cup?,2
+Topic: Other,What attraction was removed to make space for the Demon at Tivoli Gardens?,The Snake
+Topic: Politics,In what prison did Jean-Marc Rouillan marry Nathalie Ménigon?,Fleury-Mérogis Prison
+Topic: Other,From what undergraduate college did Lt. Gen. (Ret.) Ronald Ray Blanck, D.O., graduate?,Juniata College
+Topic: Politics,Which year was Leonard P. Zakim first involved in the reelection campaign of Michael Dukakis?,1978
+Topic: Politics,What is the name of the man who became the third Black man to serve as a Portland city commissioner in Oregon?,Mingus Ulysses Mapps
+Topic: Art,Who created the bronze version of "Damned Soul" by Gian Lorenzo Bernini, currently in the Liechtenstein Collection?,Massimiliano Soldani-Benzi
+Topic: Politics,Which school did Lyndon B. Johnson briefly teach in Pearsall?,Pearsall High School
+Topic: Science and technology,What multiple-choice letter option could be selected by pressing the button surrounded by yellow on the chest plate of the original 2-XL Robot, which was released between 1978-1981 by Mego Corporation, based on its default overlay?,C
+Topic: Sports,In what city in England was James Brain, an English football manager and player born in 1900, born?,Bristol
+Topic: Politics,What was Natasha Merle's nomination vote count for the United States District Court for the Eastern District of New York?,50 Yeas and 49 Nays
+Topic: Art,Which organization commissioned "Pinturas de Tamayo" (the composition by Steven Stucky)?,Chicago Symphony Orchestra
+Topic: Politics,What was the voter participation percentage in the 1971 Federal elections in the Canton of the Grisons, also known as the Canton of Graubünden, in Switzerland?,56.70% (acceptable range: anything between 56.13% and 57.27%)
+Topic: Art,Three years after joining Comme des Garçons, Junya Watanabe started designing which CdG line?,Tricot line
+Topic: Science and technology,What is the surname of the individual who won the Faraday Medal, awarded by the Electrochemistry Group of the Royal Society of Chemistry in 2019?,Winter
+Topic: Science and technology,Name the first 3D planetarium in India.,Swami Vivekananda Planetarium
+Topic: Sports,What was the full name of the first Black runner to win the Ultra Two Oceans Marathon in South Africa?,Gabashane Vincent Rakabaele
+Topic: Politics,Who was the person who spoke out against naming a new Imperial Lord Privy Seal, which put him in direct conflict with the regime's de facto prime minister, Émile Ollivier?,Léon Gambetta
+Topic: Politics,Which Nassau County, NY, hospital did New York State Representative Tom Suozzi's mother work in as an operating room nurse?,Glen Cove Hospital
+Topic: Sports,In 1989, how many kilometers long was the Cape Town Cycle Tour, formerly known as the Cape Argus Cycle Tour?,105 km (acceptable range: anything between 103 and 107 km)
+Topic: Science and technology,What were the month and year when Netflix announced official support for ChromeOS through its streaming service, allowing Chromebooks to watch streaming movies and TV shows via Netflix?,August 2011
+Topic: Other,What is the number of months that Kingda Ka was closed after being struck by lightning in 2009?,3
+Topic: Science and technology,In September 2022, biologists reported what number of Devils Hole Pupfish in Devils Hole, the most they'd observed in 19 years?,263 (acceptable range: anything between 259 and 266)
+Topic: Science and technology,In July 2021, how much rainfall (in millimeters) was recorded in Al Ain due to cloud-seeding efforts?,6.9 millimetres (acceptable range: anything between 6.83 and 6.97 millimetres)
+Topic: Politics,For which years did the Kenyan politician Amason Kingi Jeffah serve as Minister for Fisheries Development?,2010-2013
+Topic: Science and technology,What is the name of India's first nano-satellite?,Jugnu
+Topic: Art,What was the name of the younger brother of Mukul Chandra Dey who was a member of the Progressive Artists' Group and a prominent painter of the Bengal School of Art?,Manishi Dey
+Topic: Politics,In which year was John B. Mortimer appointed a Judge of the High Court of Hong Kong?,1985
+Topic: History,What is the name of the illness, as it was known at that time, from which Anna, the daughter of Sir James Augustus Henry Murray, the primary editor of the Oxford English Dictionary from 1879, died?,Tuberculosis (then know as "Consumption")
+Topic: Geography,According to the last population update in 2010, the rural locality of Taz Russky in the Klyapovskoye Rural Settlement of Russia has a population of what?,175 (acceptable range: anything between 173 and 177)
+Topic: Music,In which day, month, and year was the song written by Pedro Medina Avendaño declared the national anthem of Bogotá?,31 July 1974
+Topic: Sports,Which football team won the first and only ELFA Challenge Cup competition in 1922?,Stoke Ladies
+Topic: Music,In which Rhode Island town was Shaker musician Ruth Mildred Barker born?,Providence
+Topic: Art,What was the name of the gallery at Blenheim Palace that was destroyed by fire in 1861?,Titian Gallery
+Topic: Politics,What were the month and year when Obama rolled out the Priority Enforcement Program, an immigration enforcement program that had been pioneered by George W. Bush?,July 2015
+Topic: Art,On the Bannerman family crest, what is the man holding in his right hand?,A sword
+Topic: Geography,In which district is the Syrian village "Kafr al-Awamid" located?,Al-Zabadani
+Topic: Politics,In what month and year did New York State Representative Paul Tonko resign as CEO of the New York State Energy Research and Development Authority?,April, 2008
+Topic: Art,What are the dimensions of Janine Antoni's 2015 work, "Lull," in inches?,27 x 40 inches (acceptable range: [26-28] x [39-41] inches)
+Topic: Art,What was the name of Helmut Lang's solo exhibition in New York in 2017?,Helmut Lang: new work
+Topic: Science and technology,In what year did the Computer History Museum have its first exhibit?,1975
+Topic: TV shows,In which episode of Season 5 does the British period drama Downton Abbey refer to the Jallianwala Bagh massacre?,8
+Topic: Geography,How many lamps did the original Cape Hatteras Lighthouse contain?,18
+Topic: Video games,On what day, month, and year was Cities: Skylines released for Google Stadia?,May 17, 2022
+Topic: Sports,What was the nickname of Wiley Lee Griggs III, an American Negro League infielder?,Diamond Jim
+Topic: Music,How many songs did Narayan Gopal release during his lifetime?,137 (acceptable range: anything between 135 and 139)
+Topic: Music,What are the notes of the bebop scale in Key A major?,A, B, C♯, D, E, F (or E♯), F♯, G♯
+Topic: Science and technology,Who was the 2018 ACM Eugene L. Lawler Award recipient?,Meenakshi Balakrishnan
+Topic: Art,Which two architects built the Pizzurno Palace?,Carlos Adolfo Altgelt and Hans Altgelt
+Topic: Politics,From which Louisiana university did former Belizean Prime Minister Manuel Esquivel earn his B.S. degree in physics?,Loyola University, New Orleans
+Topic: Sports,On what day, month, and year was Petra Văideanu (retired Romanian heptathlete) born?,August 24, 1965
+Topic: Geography,In which city of Pakistan is Gasho Lake located?,Gilgit
+Topic: Science and technology,Who was the first to describe Pterolophia exigua?,Stephan von Breuning
+Topic: Sports,What is the name of the tennis player who faced a disciplinary probe and was fined for walking off the court during the ATP 500 event at Acapulco, Mexico in March 2021?,Damir Dzumhur
+Topic: History,On 15 May 1946, who commissioned the USCGC Eagle (WIX-327) into the United States Coast Guard?,Gordon McGowan
+Topic: Science and technology,Which university awarded Pieter Bleeker a Doctorate Honoris Causa first in 1846 for his work in ichthyology and tropical medicine?,Leyden University
+Topic: Science and technology,In which genus was the orange-spotted bulbul originally described in 1821?,Turdus
+Topic: Music,When was the album "When the Sun Goes Down" by Selena Gomez released in Japan (specific day, month, and year)?,14 September 2011
+Topic: Politics,On what date, month, and year was the Indian politician T. M. Selvaganapathy acquitted by the High Court in connection to the Pleasant Stay hotel case?,4 December 2001
+Topic: Politics,Which district did Mary Ann Arty serve in the Pennsylvania House of Representatives in 1981?,165
+Topic: Geography,What is the maximum width of Gangabal Lake in kilometers?,1 km
+Topic: History,The Community Hall (23 Grenville Street), purchased in 1935 by a group of residents in Burritts Rapids, Ontario, was built as a general store by a man named what?,John Strahan French
+Topic: Art,What did Norman Rockwell name his first assignment for "Look" magazine?,The Problem We All Live With
+Topic: Art,For how many scudi did the Florentine authorities buy the "Pitti Tondo" from the dealer Fedele Acciai in 1823?,200 (acceptable range: anything between 198 and 202)
+Topic: Sports,What was Yangyi Yu's score in the 2020 Tata Steel Masters?,4.5/13
+Topic: Politics,Who was Robert J. Mrazek's first wife?,Catherine Gurick
+Topic: Music,What specific day, month, and year was Beyoncé's album "Lemonade" certified platinum by the British Phonographic Industry?,9, September 2016
+Topic: Video games,How many new subclasses were introduced in Tasha's Cauldron of Everything (not including reprints from previous books)?,22
+Topic: Politics,On what day, month, and year did Olton Willem van Genderen, a Surinamese civil servant and politician, die?,November 9, 1990
+Topic: Music,In which Tokyo venue was P-Model's live album *Pause* recorded?,Hibiya Open-Air Concert Hall
+Topic: Other,Which of Smith Wigglesworth's grandchildren became the president of Elim Pentecostal Church?,Leslie Wigglesworth
+Topic: Politics,Who preceded Eduardo Laurencena as President of the National Committee of the UCR?,Gabriel Oddone
+Topic: TV shows,What relation is David W. Duclon to Cherie Johnson?,Maternal uncle.
+Topic: Other,The Honeybee Conservancy founder Guillermo Fernandez was a child immigrant from which country?,Cuba
+Topic: Sports,On what day, month, and year was Ahmed Samir Farag, an Egyptian footballer, born?,20 May 1986
+Topic: Politics,In 2022, on which date and month was the news channel 'World Is One News' (WION) blocked from YouTube for "violating YouTube's community guidelines" regarding the "Russia-Ukraine War"?,22 March
+Topic: Other,What number of sets does the discontinued Lego part ID 4178 appear in?,10
+Topic: Science and technology,At which U.S. observatory was 66 Maja discovered?,Harvard College Observatory
+Topic: Art,What is the name of the sculpture Louise Bourgeois created in 1955?,One and Others
+Topic: Sports,On what day, month, and year did Amédée Gibaud, a French chess master, die?,18 August 1957
+Topic: Politics,From which South American university did Sergio Fajardo Valderrama receive his M.Sc. in Mathematics?,Universidad de los Andes
+Topic: Art,What are the first and last names of the designer of 50 francs with the Little Prince images?,Roger Pfund
+Topic: Politics,What cabinet position did Sir Hector-Louis Langevin hold in 1870?,Minister of Public Works
+Topic: Politics,From which university did Teresa Czerwińska earn her Ph.D.?,University of Gdańsk
+Topic: Art,How many dollars did artist J.C. Leyendecker's painting "Carousel Ride" sell for in December 2020?,516,100 dollars
+Topic: Geography,For how many years was the original Omsund Bridge in Kristiansund, Norway, in use?,41
+Topic: Sports,How many Big East Championships did Frank Beamer win?,3
+Topic: Politics,For how many consecutive terms was the Indian politician Babanrao Shankar Gholap, alias Nana, elected to the Vidhan Sabha?,5
+Topic: Art,In what year did Richard Diebenkorn begin teaching at the California College of Arts and Crafts?,1955
+Topic: History,What were the day, month, and year when Pakistan International Airlines Fokker 27 was hijacked en route to Karachi from Sukkur?,20, January 1978
+Topic: Music,How many symphonies did the Estonian composer Els Aarne write?,2
+Topic: Politics,From which date, month, and year to which date, month, and year did the Indian politician Anant Geete serve as the Minister of Power in the Indian government?,August 26, 2002 – May 22, 2004
+Topic: Geography,In which city was John Gilbert Layton raised?,Hudson
+Topic: Science and technology,What were the day, month, and year when Twitter tested a new homepage and phased out the "Old Twitter"?,5 April 2011
+Topic: Other,Who parachuted off the 267 m high (876-ft) New River Gorge Bridge near Fayetteville, West Virginia, USA, on 19 October 2013, at the age of 84 years and 37 days?,Donald Cripps
+Topic: Other,Which hotel was awarded World's Leading Adventure Hotel 2022?,Pikaia Lodge
+Topic: Music,What day, month, and year did Carrie Underwood reveal the track listing for her album "Storyteller"?,September 10, 2015
+Topic: Sports,In the 2007 Super 14 season, who were the two rugby teams that played in Ellis Park Stadium on February 2, 2007?,Lions and Waratahs
+Topic: Other,What TTRPG won the 2016 Indie RPG of the Year award?,Blades in the Dark
+Topic: Art,In which year did The MOI! Project (Museums of Impact), a part of the Creative Europe program, finish?,2022
+Topic: Science and technology,In what year did Willis H. Flygare win the Irving Langmuir Award?,1981
+Topic: Politics,What was the name of the act passed by Congress that allowed Puerto Rico to elect its own governor?,Elective Governor Act
+Topic: Music,Who created the cover artwork for Heavatar's "All My Kingdoms"?,Kerem Beyit
+Topic: Art,What was the street address of the studio George Reid and Mary Hiester established after they settled in Toronto following their honeymoon?,31 King Street East
+Topic: Geography,Which village in Ontario was first settled in 1824 by Mr. A. Hurd, and had the Post Office established in 1836, with Mr. J. Leach being the first Postmaster, according to "Conner & Coltson's Directory of the County of Ontario for 1869-70"?,Prince Albert.
+Topic: Art,On which year was China Zorrilla invested Chevalier des Arts et des Lettres?,2008
+Topic: Politics,What is the name of the town in which American politician Charles Allen Parker Bartlett was born in 1880?,Concord, Massachusetts
+Topic: Sports,In what year was Edward Morris, the Welsh international footballer, born?,1872
+Topic: Politics,In what month and year was Barry Goldwater's fourth child born?,July 1944
+Topic: Politics,The 16th North East Region Commonwealth Parliamentary Association (NERCPA) conference started in which city?,IMPHAL
+Topic: Art,What Toronto Library collection was established in 1977, named after the children's librarian and head of the TPL?,The Jean Thomson Collection of Original Art
+Topic: History,According to "A Survey of London; Reprinted From the Text of 1603," in 1206, 1220, 1224, and 1243, Crown pleas were heard in the Tower of London, with William of York, Richard Passelew, Henry Bathe, and which other justice presiding?,Jerome of Saxton.
+Topic: Geography,Which Indian state is also known as Veer Bhumi?,Himachal Pradesh
+Topic: Music,In what year was Phillip Paul Bliss, famous Christian songwriter, appointed as a teacher in the Rome, Pennsylvania Academy?,1858
+Topic: Sports,What was Tim Wakefield's ERA during the '04 World Series?,12.27 (acceptable range: anything between 12.14 and 12.89)
+Topic: Science and technology,What is the number and name of the asteroid that is astronomer Paul Henry's first credited asteroid discovery?,126 Velleda
+Topic: Art,What was John Graham Lough's cause of death?,Pneumonia
+Topic: History,How many children did Admiral Charles Philip Snyder and Cornelia Lee Wolcott have?,3
+Topic: Science and technology,In what year was chemist Eduard Buchner promoted from assistant lecturer to lecturer at the University of Munich?,1891
+Topic: Science and technology,What is the MD5 checksum of the file named "ffrelay-debian-4.30.ggi.zip," with the product name "FinFisher Relay v4.30" and a file size of 224K, which was released by WikiLeaks?,180caf23dd71383921e368128fb6db52
+Topic: Science and technology,In what year was Glipodes dietrichi described by Franciscolo?,1962
+Topic: Science and technology,In what year did Danish mathematician and astronomer Niels Erik Norlund set up seismographic stations in Denmark and Greenland?,1925
+Topic: TV shows,What was the Sky EPG number of Game Network when it launched in the United Kingdom in May 2001?,223
+Topic: Geography,In the 2020 census, what was the population of Boliney, Abra, Philippines?,4551 (acceptable range: anything between 4505 and 4597)
+Topic: Music,What place did the album "I Am... Sasha Fierce" by Beyoncé place in the year-end 2010 Australian Albums (ARIA) charts?,61
+Topic: Sports,Which day, month, and year did Şahika Ercümen break a world record in the VNF category at Kaş, Antalya, Turkey, with 100 m?,26 October 2021
+Topic: Other,What is the name of the documentary Ellen Kuzwayo was involved in with Betty Wolpert in 1982?,Awake from Mourning
+Topic: Geography,What is the third-tallest mountain in Romania?,Viștea Mare
+Topic: Sports,Which team won the 2016–17 Championnat LNA season (86th season of the top-tier basketball league in Switzerland)?,Monthey
+Topic: Science and technology,With which scientist did Vincent Joseph Schaefer issue the U.S. patent for the "Electrical Indicator of Mechanical Expansion" in 1947?,Katharine B. Blodgett
+Topic: Politics,On what day, month, and year was Kommunistisk Forbund founded?,21 January 1973
+Topic: History,How many deaths were caused by an amoebic dysentery outbreak at the Century of Progress World's Fair?,98 (acceptable range: anything between 97 and 99)
+Topic: Art,In what year did Etta Cone commission Henri Matisse to make a posthumous portrait of Claribel Cone?,1930
+Topic: Politics,Who was Raúl Alfonsín's first Minister of Health and Social Development?,Aldo Carlos Neri
+Topic: Geography,In which city and state was Johnson O'Connor laid to rest?,Newport Beach, California
+Topic: Music,Who was Markus Dörk's original replacement as guitarist for Blind Guardian?,Christof Theißen
+Topic: Sports,What team drafted Sonny Wade in the 1969 NFL draft with the 236th overall pick?,The Philadelphia Eagles
+Topic: Science and technology,What are the four classifications of techniques and methodologies for mental fatigue measurement mentioned in Faramarz Gharagozlou et al.'s 2015 research paper, "Detecting Driver Mental Fatigue Based on EEG Alpha Power Changes During Simulated Driving"?,subjective,  psychological,  performance and physiological  methods
+Topic: Music,What is Donnie McClurkin's son's name?,Matthew McClurkin
+Topic: Politics,In what month and year did Andrew Cuomo sign a bill to create Palm Tree, New York?,July 2018
+Topic: Art,For how many English guineas did the Victoria and Albert Museum purchase the "Bust of Thomas Baker" by Gian Lorenzo Bernini in 1921?,1480 English guineas (acceptable range: anything between 1465 and 1495 English guineas)
+Topic: Geography,From 1st January 2015 to 5th February 2019, how many hectares of forest land were diverted in Goa for non-forestry purposes under the Forest Conservation Act of 1980 (MoEF&CC, 2019)?,42.75 (acceptable range: anything between 42.32 and 43.18 hectares)
+Topic: Other,From which university did Louise M. Antony (American philosopher) receive her bachelor's degree in philosophy?,Syracuse University
+Topic: Music,What certification did Reba's album "So Good Together" receive from the United States (RIAA)?,platinum
+Topic: Other,What was the name of the 37-year-old woman who passed away in the Painted Cave Fire after fleeing the flames along San Marcos Road?,Andrea Lang Gurka
+Topic: Music,What was the name of the composer of the opening theme song for the radio program "The American Album of Familiar Music"?,Walter Gustave "Gus" Haenschen
+Topic: Music,What song's music video did Metal Injection rank at number 9 on the list of Top 15 Metal Viral Videos of the Year on December 8, 2011?,ド・キ・ド・キ☆モーニング[ Doki Doki☆Morning ] by BABYMETAL
+Topic: Music,What album is the song "God Is Alive, Magic Is Afoot" by Chris Thile on?,Laysongs
+Topic: History,On which day/month/year did South African architect Albertus Petrus Snyman Conradie die?,26 December 1999
+Topic: Sports,On what day, month, and year did Floro Garrido, a Spanish retired footballer, die?,9 January 2012
+Topic: Other,Which school did Carl Van Vechten graduate from in 1898?,Washington High School.
+Topic: Politics,What is the last line of "Land of the Rising Sun," the national anthem of the Republic of Biafra?,To make this clime a land of righteousness
+Topic: Other,What length in millimeters did the NS 4000 in the Netherlands have?,20,775 millimeters (acceptable range: anything between 19,736 and 21,814 millimeters)
+Topic: Other,How much money in dollars did Steven Furtick's church give to its members in 2007?,40,000 dollars (acceptable range: anything between 38,000 and 42,000 dollars)
+Topic: History,What is the total number of passengers that died when KLM Flight 4805 and Pan Am Flight 1736 collided?,583 (acceptable range: anything between 577 and 589)
+Topic: Other,Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.,Dr Arnavaz Havewalla
+Topic: Other,What was the name of the elementary school where World Changers Ministries Christian Center held their first worship service?,Kathleen Mitchell Elementary School
+Topic: Science and technology,What year did René Laennec claim that tubercles were the cause of pulmonary tuberculosis?,1819
+Topic: Politics,In which year did Anil Biswas (an Indian communist politician) join the Krishnagar Government College, come under the influence of Marxist leaders like Harinarayan Adhikari and Dinesh Mazumdar, and also become an active member of the Students' Federation of India?,1961
+Topic: Music,In what church was the organ installed in 2000 at St. John's Church, Gateshead Fell, previously located?,St Aidan's Church, Blackhill, Consett
+Topic: Sports,In what round of the Nations Cup team competition at the FEI European Championships did a member of the jump crew interfere with Cian O'Connor and Good Luck?,Second
+Topic: Politics,From which university in the District of Columbia did New York State Representative Andrew Garbarino earn a Bachelor of Arts degree in History and Classical Humanities?,George Washington University
+Topic: Science and technology,As of 2022, what is the name of the smallest (by radius) known exoplanet within 10 parsecs of Earth's solar system?,Gliese 367 b
+Topic: Other,What was the name of the director of the Clayman Institute for Gender Research in 1994?,Iris Litt
+Topic: Science and technology,What is the name of the botanist who first formally described *Chorizema dicksonii* in 1839?,Robert Graham
+Topic: Sports,What is the full name of the Colombian soccer player Juan Guzmán born in 1988?,Juan Pablo Guzmán Perdomo
+Topic: Other,What field was Rev. Dr. Lee B. Spitzer awarded a PhD in from Vrije Universiteit Amsterdam and the International Baptist Theological Study Centre?,Theology
+Topic: Art,What was the name of Andrew Dickson White's cousin who became an artist of the Luminism style and Hudson River School?,Edwin White
+Topic: Music,Which musician became Louis Armstrong's first teacher and chose him as the bandleader?,Peter Davis.
+Topic: Science and technology,Who was the second president of the International Society for Soil Mechanics and Geotechnical Engineering?,A. W. Skempton
+Topic: Art,How many livres did artist Jean-Antoine Watteau sell his painting "Camp-fire" first to Sirois for?,60 livres (acceptable range: anything between 58 and 62 livres)
+Topic: Sports,In which year did Jamia win its first gold and silver medals in wrestling at the All India Inter University Championship?,1977
+Topic: Other,Blockhouse Island in Brockville has a statue of Con Darling, a local figure who is pushing a stroller. What is inside the stroller?,His pet chicken Myrtle
+Topic: Other,Which grammar school did Diane Marie Disney attend before moving to Immaculate Heart High School?,Los Feliz Grammar School.
+Topic: TV shows,Who is discovered to be alive at the end of Season 1 of Motherland: Fort Salem?,Willa Collar
+Topic: Politics,Who was Christopher Hornsrud's Minister of Justice and the Police when he formed his Labour Party cabinet in 1928?,Cornelius Holmboe
+Topic: Sports,How many players on the Winnipeg Falcons hockey team died in WWI?,2
+Topic: Science and technology,What Mozilla Firefox release version included the patch note: "Improved the performance of the instance when Microsoft's IME and Defender retrieve the URL of a focused document in Windows 11 version 22H2"?,107
+Topic: Politics,Who was the first president of the Supreme Court of Brazil appointed by Pedro I?,Jose Albano Fragosa
+Topic: Music,What month and year was "Welcome to Paradise" first released?,December 1991
+Topic: Geography,According to the 2011 census of India, after Hindi, which is the second fastest growing language of India, followed by Meitei (Manipuri) in third place and Bengali in fourth place?,Kashmiri
+Topic: Geography,What river is the Kokosing River a tributary of?,Walhonding River
+Topic: Sports,To whom was A. Wallis Myers married?,Lilian Gentry
+Topic: Geography,Which is the largest tributary of the Chenab River?,Marusudar River
+Topic: Other,What was the name that movie theater owner Harry E. Huffman gave to his two-story Denver mansion?,Shangri-La
+Topic: Geography,How many households were there in Weston, Ohio, as of the 2000 census?,638 (acceptable range: anything between 631 and 645)
+Topic: Science and technology,What is the scientific name for the African forest elephant?,Loxodonta cyclotis
+Topic: Music,How old was composer Miya Masaoka when she began studying classical music?,8
+Topic: Music,What EP did Rosalía release in 2019?,Fucking Money Man
+Topic: Sports,For which team did Edward Ambrose Hug, the American Major League Baseball catcher, make his MLB debut?,Brooklyn Superbas
+Topic: Music,What are the first name and surname of the woman who was voted 17th in the Top 100 Great South Africans in 2004?,Brenda Fassie
+Topic: Geography,What was the name of the Venezuelan state in which María Teresa Castillo was born in 1908?,Miranda.
+Topic: Art,Conservation work on Lord Limerick’s Follies at Tollymore Park, Newcastle, Co. Down, began in May 2010, in memory of which conservation architect who died in 2008?,Dick Oram
+Topic: Sports,What is the name of the team that Filip Hašek, the footballer, played against during his professional debut on July 22, 2018?,Slovácko
+Topic: Geography,In 2012, what country did the ICJ say had sovereignty over Bajo Nuevo?,The Republic of Colombia
+Topic: Politics,In which city and country was Yasir Naqvi, a Canadian politician, born?,Karachi, Pakistan
+Topic: Science and technology,In which year did William Hammon at the University of Pittsburgh purify the gamma globulin component of the blood plasma of polio survivors?,1950
+Topic: Science and technology,Which scientist received the Gilbert Morgan Smith Medal in 2015?,Takao Kondo
+Topic: Science and technology,Which version of Mozilla Firefox was released with this patch note: "Smooth pinch-zooming using a touchpad is now supported on Linux"?,88
+Topic: Geography,In which NYC borough was pharmacist David Morris Kern born?,Manhattan
+Topic: Other,What day, month, and year was the Retlaw 1 combine car sold to the Carolwood Foundation?,10 July 2010
+Topic: Sports,In the women's singles 2022 Madrid Open, how many Romanian players played in the second round?,1
+Topic: Video games,Which Bard subclass was included in the 2022 Expert Classes Unearthed Arcana for Dungeons & Dragons?,College of Lore
+Topic: Science and technology,On what day, month, and year did Vinton Gray Cerf publish his work "A View from the 21st Century"?,April 1, 1994
+Topic: Politics,Who was the 33rd President of Costa Rica?,Mario José Echandi Jiménez
+Topic: Politics,In which year did the top religious body in Saudi Arabia give the green light for codification of Sharia law?,2010
+Topic: Art,In which year and month did El Cielo receive its first Michelin star in Miami?,June 2022
+Topic: Art,In which industry did painter William Moore Davis work before he became a full-time painter?,In the shipbuilding industry.
+Topic: Science and technology,What is the UNII of Nivolumab, an anti-cancer medication?,31YO63LBSN
+Topic: Science and technology,What is the chemical formula of atogepant, a class of medications called calcitonin gene-related peptide receptor antagonists?,C29H23F6N5O3
+Topic: Sports,What track did Jimmie Johnson record his only win at in 2001 as part of the NASCAR Xfinity Series?,Chicagoland Speedway
+Topic: Politics,Which year was Audrey McLaughlin sworn in as a member of the Queen's Privy Council for Canada?,1991
+Topic: Music,On which day, month, and year did the Orchestra of the Age of Enlightenment celebrate the 21st anniversary of its founding?,30 June 2007
+Topic: Politics,How many days was Dev Shumsher Jung Bahadur Rana prime minister?,114 (acceptable range: anything between 113 and 115)
+Topic: Science and technology,In what year was the beetle species Glipa andamana described?,1941
+Topic: Politics,What was the name of the CIA contractor whose documents for the "UMBRAGE Component Library" (UCL) project were published by WikiLeaks?,Raytheon Blackbird Technologies
+Topic: Music,In what key was "I Offer My Life" by Don Moen composed?,F Major
+Topic: Politics,What percentage of voters were against the constitutional referendum held in Ghana on April 27, 1960?,11.53% (acceptable range: anything between 11.41% and 11.65%)
+Topic: Politics,What month, day, and year was James V. Allred nominated by President Franklin D. Roosevelt to the United States District Court for the Southern District of Texas?,5 January 1939
+Topic: Music,What is Kinoko Teikoku's first EP?,Long Good Bye
+Topic: Sports,How many competitors from 11 nations participated in Fencing at the 1908 Summer Olympics – Men's saber?,76 (acceptable range: anything between 75 and 77)
+Topic: Politics,In which country was the 4th edition of the ASEAN-India Grassroots Innovation Forum (AIGIF) launched?,Malaysia
+Topic: Art,What flowers were shown in artist J.C. Leyendecker's May 30, 1914, "The Saturday Evening Post" cover?,Hyacinths
+Topic: Art,Norman Rockwell was hired as the art director of what publication while in his teens?,Boys' Life
+Topic: Politics,Who was the father of the Indian journalist and political commentator Romesh Thapar?,Daya Ram Thapar
+Topic: History,In 1841, which steamer did Captain Shepherd take from Brockville through all the Cornwall and Coteau rapids to Lachine?,St David.
+Topic: Geography,According to Wikipedia, how many feet above sea level is the Getty Center?,900 (acceptable range: anything between 891 and 909)
+Topic: Science and technology,How many Cierva W.11 Air Horse rotorcraft were built in total?,2
+Topic: Science and technology,In the paper "Aluminium Metal Matrix Composites – A Review," which alloy of aluminium was evaluated for physical properties by Mahendra Boopathi M. et al.?,2,024
+Topic: Music,What day, month, and year was the EP "Dirty Laundry" released by Adore Delano?,July 9, 2021
+Topic: Art,What year was the alabaster sculpture known as the "Teotihuacan Ocelot" found?,1889
+Topic: Science and technology,In what year did Gordon Plotkin win the ACM SIGPLAN Programming Languages Achievement Award?,2010
+Topic: Science and technology,What is the PubChem CID of Rimegepant?,51049968
+Topic: Geography,Which mountain stream flows between the valleys of Chinamarg and Nurpur Pass?,Ferozepur Nallah
+Topic: Politics,What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley "Boots" Adams, former president of Phillips Petroleum Company?,Eisenhower
+Topic: Art,In which country was Robert “Bob” Guy Walls, a painter born in 1927, born?,New Zealand
+Topic: Politics,Who was the grandfather of the 14th Chief Justice of India, A.N. Ray?,Dr. Debendra Nath Ray
+Topic: Other,What was the title of Thomas Callister Hales' Ph.D. dissertation from Princeton University in 1986?,The Subregular Germ of Orbital Integrals
+Topic: Art,In which Nebraska city was painter Kathleen Gemberling Adkison born in 1917?,Beatrice
+Topic: Geography,What is the name of the city where Sangtarashan Cave is located?,Jahrom
+Topic: Art,In 1981, in what Broadway musical did Janet Hubert make her debut?,"The First"
+Topic: Politics,What was the name of George T. Fulford's son-in-law who was sworn into the Privy Council on July 31, 1930?,Arthur Charles Hardy
+Topic: Art,What was the Christian denomination to which Frank Lloyd Wright's father originally belonged?,Baptist
+Topic: Science and technology,In which year did George Bentham change the name of *Hedaroma pinifolium* to *Pimelea pinifolia*?,1865
+Topic: Art,What was the first and last name of the president of the Society of Illustrators from 1929 to 1936?,Wallace Morgan
+Topic: Sports,Where was the body of Stuart Leary, a South African sportsman who played for Charlton Athletic Football Club in London, discovered on August 23, 1988?,Table Mountain, South Africa
+Topic: History,Who was the first principal of Mayo College in India?,Colonel Sir Oliver St John
+Topic: Art,What was the name of the architect who rebuilt Dalby Hall in Lincolnshire for J. W. Preston in 1856 after the home was destroyed by fire?,James Fowler
+Topic: Politics,What day, month, and year did Menchú announce that she would form an Indigenous political party called Encuentro por Guatemala?,12 February 2007
+Topic: Science and technology,What is the title of Nils Jerlov's doctoral thesis from 1939?,Effect of chemical combination on x-ray emission spectrum
+Topic: Politics,On what day, month, and year did Gopalaswami Parthasarathy assume the charge of Vice Chancellor of Jawaharlal Nehru University?,April 28, 1969
+Topic: Geography,Which river of India is known as the Lion's Mouth in Tibet?,Indus River
+Topic: Science and technology,Who was the sole winner of the Fulkerson Prize for outstanding papers in the area of discrete mathematics in 1997?,Jeong Han Kim
+Topic: Sports,At what age in years and months did the American professional tennis player Coco Gauff win the title of "USTA Clay Court National 12-and-under"?,10 years 3 months (acceptable range: 10 years and between 2-4 months)
+Topic: Politics,In what year was Alain Stanké made a Knight of the National Order of Quebec?,2003
+Topic: Science and technology,In what year was *Hemidactylus boavistensis* elevated from a subspecies of *Hemidactylus bouvieri* to a separate species?,2008
+Topic: Art,What was the capacity of the orchestra level of the Hanna Theatre located in Cleveland, Ohio, before its renovation?,827 seats (acceptable range: anything between 818 and 836 seats)
+Topic: Politics,Who is the father of the Aruban politician Dangui Oduber?,Nelson Oduber
+Topic: Politics,On which day, month, and year did Gyan Sudha Misra retire as a judge of the Supreme Court of India?,27 April 2014
+Topic: Politics,What is the name and surname of the former President of South Africa who received a state funeral when he died on January 4, 2007?,Marais Viljoen
+Topic: Art,What year did the painter Joseph Matthäus Aigner paint "Portrait of a Lady with Her Dog"?,1863
+Topic: Music,Where was the album "Barton Hollow" by The Civil Wars placed on the "Top 10 of Everything in 2011" in Time?,#9
+Topic: Politics,How many amendments to the Pakistani Constitution were not passed as of 2022?,3
+Topic: Politics,Who was the 60th Governor of North Carolina?,J. Melville Broughton
+Topic: Politics,What did George Brown (1818-1880) refuse in 1875?,The lieutenant governorship of Ontario
+Topic: Science and technology,What is the name of the naturalist who first described the sharpbill under the binomial name *Oxyrhuncus cristatus* in 1821?,William John Swainson
+Topic: Science and technology,Who first described the Hopfield networks with respect to recurrent neural networks in 1972?,Shun'ichi Amari
+Topic: Geography,Which interstate is located near Ramby Avenue, where the KTCZ-FM transmitter on the KMSP Tower is located?,Interstate 694
+Topic: Music,Who originally played keyboards for the Band of Joy?,Chris Brown
+Topic: Politics,Which Prime Minister of Italy was named 'Iron Baron'?,Bettino Ricasoli
+Topic: Science and technology,According to the 14th report of the state entomologist on injurious and other insects of New York in 1898, Miss Ormerod, in her 15th report in 1893, recorded the serious and widespread injuries to raspberries from what insect in England? Use the scientific name.,Byturus tomentosus
+Topic: Science and technology,During which year was NASA's Vehicle Assembly Building designated as a National Historic Civil Engineering Landmark by the American Society of Civil Engineers?,2020
+Topic: Music,What's the first and last name of the person who sings Alastor's voice in the song "Alastor's Game"?,Sam Haft
+Topic: Art,According to Georg Wilhelm Friedrich Hegel, what are the three Romantic arts?,Painting, music, and poetry.
+Topic: Music,Which album by Die Toten Hosen was the first to reach number one on the German music charts?,"Auf dem Kreuzzug ins Glück"
+Topic: Geography,In what city and country did Gustav Kramer work as an assistant at the German-Italian Institute of Marine Biology?, Rovinj, Croatia (formerly Rovigno, Italy)
+Topic: Art,How many horses are depicted on Munch's "Horse Team and a St. Bernhard in the Snow" (1923)?,2
+Topic: Sports,What high school did pitcher Christopher Deane Haney attend?,Orange County High School
+Topic: Geography,What is the area between the River Indus and the River Jhelum called?,Sindh Sagar Doab
+Topic: Politics,The Guyanese government posthumously awarded Walter Rodney which honor?,The Order of Excellence of Guyana.
+Topic: Politics,What is the surname of the judge who led the Election Tribunal that nullified Chris Ngige's 2003 Anambra governorship victory in August 2006?,Nabaruma
+Topic: Sports,Where was the first B.A.S.S. Bassmaster Tournament held?,Lake Mead
+Topic: Geography,Nilgai is widely seen as the state animal of which Union Territory of India?,Delhi
+Topic: Politics,Which U.S. president was the last one to be born in the 18th century?,James Buchanan
+Topic: Other,What is the Glottolog language code of the Aralle-Tabulahan language?,aral1243
+Topic: Sports,In 1900, who broke the world record for consecutive chin-ups (39)?,Alfred Carlton Gilbert
+Topic: Science and technology,Who was the first woman to serve on the executive committee of the International Union of Geological Sciences?,Zofia Emilia Kielan-Jaworowska
+Topic: Politics,What day, month, and year did over 500,000 people gather at the Black Star Square in Ghana to welcome former U.S. President Bill Clinton and his wife, Hillary Clinton?,23 March 1998
+Topic: Politics,On which day, month, and year did M'hamed Djellouli become the Prime Minister of Tunisia?,February 18, 1907
+Topic: History,In what year was the Wood River Baptist Association formed in Illinois?,1838
+Topic: Sports,What are the names of the three stadiums in South Africa that were most used during the 2010 FIFA World Cup? Each stadium hosted eight matches.,FNB Stadium(Soccer City), Cape Town Stadium, Nelson Mandela Bay Stadium
+Topic: Art,What is the name of the book Cindy Sherman published in 2007?,A Play of Selves
+Topic: Music,Who composed the music for the song "We Rollin" by Punjabi singer Shubh?,Anabolic Beatz.
+Topic: Other,From what university did John P. Sall receive an honorary doctorate in 2003?,North Carolina State University
+Topic: Other,What was the total number of homeless individuals counted in Downey, California, by the Los Angeles Homeless Services Authority's Greater Los Angeles Homeless Count in 2022?,218 (acceptable range: anything between 215 and 221)
+Topic: Art,What is the name of the 10-meter sculpture that William Kentridge created in 2009?,Fire Walker
+Topic: Politics,Which mayor of Kathmandu declared Kathmandu Municipality a metropolitan city in 1995?,Prem Lal Singh
+Topic: History,What year was the Süleymaniye damaged in the great fire?,1660
+Topic: Politics,From which Long Island high school did New York State Representative Nick LaLota graduate?,St. Anthony's High School
+Topic: Science and technology,What is the binomial name of Acidalia virginaria?,Scopula modicaria
+Topic: Politics,What is the number of the executive order that created the Federal Theatre Project?,7034
+Topic: Sports,What was the rank of Oussama Mellouli at the 2000 Olympics for the men's 400-metre individual medley?,43rd.
+Topic: Geography,In 2002, what zoo confirmed it had three female lynxes and was developing a plan for a captive breeding program?,Jerez Zoo
+Topic: Music,What school did Gustav Holst attend between 1886 and 1891?,Cheltenham Grammar School
+Topic: Science and technology,How many concurrent FM synthesis channels (voices) can the Yamaha YM2203 from the 1980s handle?,3
+Topic: Geography,Within how many minutes of the initial earthquake was an aftershock of 6.6 Mw experienced during the April 2015 earthquake that happened in Nepal?,34 (acceptable range: anything between 33 and 35)
+Topic: Politics,At which university did the 24th Chief Justice of India, Lalit Mohan Sharma, study B.A. Hons.?,Patna University
+Topic: Politics,In what year was Whig politician James Vernon the Younger appointed an extra clerk of Her Majesty's Most Honourable Privy Council?,1697
+Topic: Sports,What Little League did Johnny Damon play baseball in as a child before junior high school?,South Orange Little League
+Topic: Geography,In which city in India is the flyover bridge named after Sam Manekshaw?,Ahmedabad
+Topic: Music,What year was Jerry Lee Lewis's 13th album released on Mercury Records?,1970
+Topic: Sports,What team came second in Group C in the 2018–19 UEFA Champions League?,Liverpool FC
+Topic: Politics,In what month and year did Spencer Perceval leave office as the Attorney General for England and Wales?,February 1806
+Topic: Art,What is the name of the primary performance by Marina Abramović and Uwe Laysiepen that was re-enacted in 2010?,Imponderabilia
+Topic: Sports,What was the name of the venue where the 1992 Scandinavian Masters golf tournament happened?,Barsebäck Golf & Country Club
+Topic: Politics,In which general elections (year) was Makhdum Khusro Bakhtyar (Pakistani politician) re-elected to the National Assembly as an independent candidate from Constituency NA-194 (Rahim Yar Khan-III)?,2013
+Topic: Science and technology,In which month and year did Arch Linux installation images start including installation scripts by default?,April 2021
+Topic: Science and technology,In what year did Russian mathematician Pavel Sergeevich Aleksandrov prove his first important result, namely that every non-denumerable Borel set contains a perfect subset?,1915
+Topic: Music,In which year was the ensemble officially named the A.V. Alexandrov Twice Red-bannered and Red-starred Song and Dance Ensemble of the Soviet Army?,1949
+Topic: Other,Which two universities awarded John Harry Dunning an honorary doctorate in 2007?,University of Lund, Sweden 
+Chinese Culture University in Taipe
+Topic: Politics,How many siblings did Pauline LaFon Gore have?,5
+Topic: Art,Who was the photographer for the cover of the March 29/April 5, 2021, issue of Time?,Wynne Neilly
+Topic: Science and technology,What man helped FitzGerald secure a pension for Oliver Heaviside in 1896?,John Perry
+Topic: Geography,In which city and province was David Sweet born?,Kingston, Ontario
+Topic: Sports,How many yellow cards did Arsenal get in the Champions League Final match between Barcelona and Arsenal on May 18, 2006?,2
+Topic: Sports,In how many first-class matches did Douglas Bennett, the South African cricketer, play from 1912 to 1924?,7
+Topic: Sports,What was the prize money, in British pounds, awarded to the loser of the chess match featuring Wilhelm Steinitz and Adolf Anderssen in 1866?,£20
+Topic: Geography,In which U.S. state is the observatory where the asteroid 3430 Bradfield was discovered located?,California
+Topic: Art,What is the name of the Spring-Summer 1984 collection by Vivienne Westwood?,Hypnos
+Topic: History,What was the name of the first schoolhouse in Newbliss, Ontario, built around 1830?,S.S. #5 Newbliss School.
+Topic: Politics,What is the name of the university where Michaela Hübschle (born as Michaela Kuntze), a Namibian politician and former Deputy Minister for Prisons and Correctional Services, first studied after attending school in her hometown?,University of Pretoria
+Topic: Music,How many people won the Arab Creativity Oscar before Mishary Alafasy?,0
+Topic: Science and technology,What is the half-life of radon-224 in hours?,1.8 hours (acceptable range: anything between 1.78 and 1.82 hours)
+Topic: Politics,Who did Manny Diaz Jr. lose to when he ran for the Miami-Dade County School Board in 2010?,Perla Tabares Hantman
+Topic: Art,What's the painting by Munch called with a tired girl lying on a bed painted in 1894?,The Day After
+Topic: Politics,In which Vermont town was politician Charles Jairus Adams born in 1917?,Randolph, Orange County
+Topic: Other,What is the Swedish word for the time of night known as "the eleven roar," when university students traditionally throw open their windows and scream their stress away?,Elvavrålet
+Topic: Science and technology,What is the UNII of Axitinib, a small-molecule tyrosine kinase inhibitor developed by Pfizer?,C9LVQ0YUXG
+Topic: History,When the electric street lamp contract in Paris, Ontario, with Orlande H. Duncombe and Alonzo N. Parney expired in 1887, what company agreed to light 25 lamps until 12 p.m. for 26 cents a lamp per night?,Paris Electric Light Company
+Topic: Geography,What was the original settlement name of the village of Addison, Michigan?,Manetue
+Topic: Politics,What name was given to the boardroom at Staffordshire University Students' Union in honor of Dulcie September in October 2011?,September Room
+Topic: Other,In which surah of the Holy Quran are the palm trees and the olives mentioned in the 29th verse?,Abasa 80.
+Topic: Geography,How many kilometers is Lolab Valley in Kupwara district from Bandipore via Aloosa village?,30 kilometers (acceptable range: anything between 29 and 31 kilometers)
+Topic: Music,What was the first band Robbie Robertson joined that formed in '56?,Little Caesar and the Consuls
+Topic: Other,How many children did actress Camille Clifford have with her second husband, Captain John Meredyth Jones-Evans?,1
+Topic: TV shows,On what radio show was a laugh track first used?,The Bing Crosby – Chesterfield Show
+Topic: Art,To whom was Ida Pulis Lathrop married?,Cyprus Clark Lathrop
+Topic: Science and technology,What is the Thermal Design Power, in watts, of the Intel® Core™ i7-9700E Processor that has 8 total cores?,65W (acceptable range: anything between 64W and 66W)
+Topic: Science and technology,What was the name of the first calculator Toshiba marketed?,BC-1001
+Topic: Politics,In her 2017 election affidavit, how much did the politician Umlesh Yadav mention her assets and liabilities were worth in crores?,₹55.10 crores and liabilities are worth ₹7.95 crores (acceptable range: ₹54.54-₹55.66 crores and ₹7.87-₹8.03 crores)
+Topic: Politics,In which year, on repeated requests from the student community of Ladakh, did Sonam Wangchuk (an Indian engineer, innovator, and education reformist) help launch the New Ladakh Movement (NLM), a social campaign and Ladakh's version of the Green Party, to work for sustainable education, environment, and economy?,2013
+Topic: Art,For what magazine did artist J.C. Leyendecker win a magazine cover competition in 1896?,The Century Magazine
+Topic: Science and technology,By 1913, how many stars could astronomer Annie Jump Cannon classify per hour?,200 (acceptable range: anything between 198 and 202)
+Topic: Other,How many people were involved in making the largest human DNA helix, achieved by the Medical University of Varna (Bulgaria) in Varna, Bulgaria, on April 23, 2016?,4000 (acceptable range: anything between 3960 and 4040)
+Topic: Music,Which parochial school did Harry Belafonte attend?,St. Charles Borromeo
+Topic: Sports,When was Gavi shown a yellow card in the La Liga match between Valencia CF and FC Barcelona that happened on October 29, 2022?,89 minutes (acceptable range: anything between 88 and 90 minutes)
+Topic: Other,What is Step Nineteen of the funeral process called in Shinto tradition?,Kotsuage
+Topic: Sports,How many bronze medals did Sweden win at the 1956 Summer Olympics?,6
+Topic: History,In what year was Ben Bogard ordained as a Baptist minister?,1887
+Topic: Sports,Which team was the first non-European team to enter the Battle of the Nations tournament?,Team Quebec
+Topic: Other,Who is the web and administrative assistant for the UNESCO Science Report: The Race Against Time for Smarter Development (2021)?,Ali Barbash
+Topic: Music,On which album was the song "The River" by Nomeansno first released?,"Why Do They Call Me Mr. Happy?"
+Topic: History,Who became the first Indian to be appointed as Professor of Mathematics and Natural Philosophy at Elphinstone College in Bombay?,Dadabhai Naoroji
+Topic: Science and technology,What were the month and year when Telegram introduced animated emoji?,August 2019
+Topic: Science and technology,In 1863, George Bentham renamed *Cyanothamnus ramosus* to what binomial name?,Boronia ramosa
+Topic: Other,On what month, day, and year did Runaway Tram at Morey's Piers open?,August 9, 2019
+Topic: Geography,Which state of India was awarded the international honor for afforestation efforts at COP-28?,Bihar
+Topic: Art,In the Boyd family crest, the dexter hand erect in pale has how many fingers bowed inward?,2
+Topic: Other,What was the name of the journal that Gloria Niemeyer Francke was the associate editor of from 1944 to 1964?,American Journal of Hospital Pharmacy
+Topic: Science and technology,What was the crater on Mercury named after Kurt Vonnegut referred to in scientific literature prior to its naming?,e5
+Topic: Science and technology,What is the dry weight, in pounds, of the Honda RC143 (1960)?,205 (acceptable range: anything between 202 and 208)
+Topic: Science and technology,What is the boiling point of the element cerium in Fahrenheit?,6229 °F (acceptable range: anything between 6166 and 6292 °F)
+Topic: Music,What year did the singer-songwriter Stella Jang become an Innisfree cosmetics model?,2021
+Topic: Video games,What are the day, month, and year of release for the Spyro: Enter the Dragonfly Official Soundtrack?,5 November 2002
+Topic: Sports,In what city and country was the 2003 Badminton Asia Championships held?,Jakarta, Indonesia
+Topic: Science and technology,Specify the day, month, and year Baidu announced that it would partner with Qualcomm to offer free cloud storage to Android users with Snapdragon processors.,18 November 2012
+Topic: Geography,Which Norwegian municipality did engineer Sigurd Aalefjær's family move to upon leaving the U.S. shortly after he was born?,Vennesla
+Topic: Art,What year did Yohji Yamamoto's mother sell her dressmaking shop?,1972
+Topic: Sports,What is the exact number of first-class appearances that Neil Priestley, the former English cricketer, made for Northamptonshire against the touring Sri Lankans in 1981?,1
+Topic: Politics,Who was the first openly bisexual state official in the USA?,Evelyn Mantilla
+Topic: Music,How many children did Robert Moog and his first wife, Shirley May Leigh, have?,4
+Topic: Art,What year was Nigerian artist Uzo Njoku born?,1996
+Topic: Geography,What is the basin size of the Koshi River in square kilometers?,74,500 km2 (acceptable range: anything between 70,775 and 78,225 km2)
+Topic: Politics,In what date, month, and year did Ronald Reagan nominate Jean Galloway Bissell, the U.S. circuit judge, to a new seat?,24 May 1984
+Topic: Politics,On what date, month, and year was Babar Awan suspended by the PPP, leading to the eventual dismissal of Zulfiqar Ali Bhutto's murder case following a series of hearings at the Supreme Court?,2 May 2012
+Topic: Sports,Which school did Lucas Valeriu Ntuba Radebe, the former South African professional footballer, attend until he was 15 years old?,Bopasenatla Secondary School
+Topic: Geography,Which two villages in Mauritius were separate villages until they became a single administrative unit in 1963?,Vacoas and Phoenix
+Topic: Video games,How many CDs did the original Seiken Densetsu 3 soundtrack include?,3
+Topic: Art,During whose papacy did Gian Lorenzo Bernini create the "Ecstasy of Saint Teresa"?,Innocent X
+Topic: Music,In August 1974, the Cary High School band performed at which Switzerland event?,Fêtes de Genève
+Topic: Politics,Where was the first "All-India Ijtema of Jamaat-e-Islami" held?,Pathankot
+Topic: Politics,What former First Lady served as co-chair of the Met Gala from 1977 to 1978?,Jackie Kennedy
+Topic: Other,In which year did Professor Julia Rucklidge earn a Bachelor of Science from McGill University in Montreal, Canada?,1992
+Topic: Geography,In which city of Jammu division is KK Birla Garden located?,Kathua
+Topic: Geography,What is the cultural symbol of the Lugbara ethnic group of Uganda?,Leopard
+Topic: Art,In what year was Anna Yuryevna Netrebko named "People's Artist of Russia"?,2008
+Topic: Music,In which year did Pantera play on the main stage of Ozzfest alongside Ozzy Osbourne and Black Sabbath?,1997
+Topic: Geography,In which Paris arrondissement was the apartment where Hermann Goldschmidt lived when he discovered 45 Eugenia located?,6th
+Topic: Sports,In what city and country did Gustave "Gus" Fitzhugh Touchard Jr. pass away?,Toronto, Canada
+Topic: Science and technology,What battery does the G-Shock GG-B100-8A come with?,CR2025
+Topic: Politics,Who was the commencement speaker at Harvard in 2018?,John Lewis
+Topic: History,Who gave the slogan "Quit India"?,Yusuf Meherally
+Topic: Other,What was the name of the company that sponsored BraviSEAmo! at Tokyo DisneySea from 2004 to 2010?,NTT DoCoMo
+Topic: Science and technology,What was the title of the thesis of the Indian mathematician Amalendu Krishna?,Zero Cycles and K-theory on normal surfaces
+Topic: Politics,How old was Hong Kong social activist Elsie Tu when she married her second husband?,71
+Topic: Geography,In what city and state is Elizabeth Magie Phillips buried?,Arlington, Virginia
+Topic: Geography,What was the original name of Forthton, Ontario, located north of Brockville on Highway 29 at the intersection of Hwy 42, before Postmaster E. H. Whitmarsh changed the original name to Unionville in 1831?,Stone's Corner
+Topic: Politics,What percentage of the electoral vote did Georges Marrane win in the 1958 French Presidential election?,13.03% (acceptable range: anything between 12.90 and 13.16%)
+Topic: Art,What is the architectural style of the Odd Fellows Hall building in Eureka, California?,Second Empire (also know as "French Empire" or "2nd Empire/Italianate")
+Topic: Music,What opera did Walt Whitman and Peter Doyle travel to New York to see in May of 1870?,Poliuto
+Topic: Politics,At which college of the University of Cambridge did the 13th Chief Justice of India, S. M. Sikri, study law?,Trinity College, Cambridge
+Topic: Other,What was the full three-word name of the crystal that the gnome who piloted the airship in the motion simulator Questor, which first opened at Busch Gardens Williamsburg in 1990, was seeking as the ultimate goal of his expedition?,Crystal of Zed
+Topic: Art,Where did Johann Ignaz Ludwig Fischer die?,In Berlin.
+Topic: Geography,What is the name of the city and state where Václav Hlavatý, a Czech-American mathematician, died?,Bloomington, Indiana
+Topic: Politics,On which month and year, during a visit to Washington, D.C., did Golda Meir agree with Henry Kissinger's peace proposal based on "security versus sovereignty"?,February 1973
+Topic: Geography,What is the peak in meters of the Cochiquito volcanic group?,1435 m (acceptable range: anything between 1420 and 1450 m)
+Topic: Other,What is the name of the Welsh nurse who specializes in palliative care and was elected Fellow of the Learned Society of Wales in 2011?,Mari Lloyd-Williams
+Topic: Art,What is the current name of the first dressmaking school in Japan?,The Bunka Fashion College
+Topic: History,What four health organizations wrote to President John F. Kennedy calling for a National Commission on Smoking?,American Cancer Society, the American Public Health Association, the American Heart Association, and the National Tuberculosis Association
+Topic: History,While Henri d'Angoulême served as the governor of Provence, who was his secretary?,François de Malherbe.
+Topic: History,What is the name of King Goodwill Zwelithini's seventh child by his wife, Queen Mantfombi Dlamini?,Mandlesizwe Zulu
+Topic: Art,The Miners' Union Hall in British Columbia was designed by an architect practicing in which American city?,Los Angeles
+Topic: Geography,At the 2006 National Census, what was the population of Sonqorabad, Alborz, in 337 households?,1376 (acceptable range: anything between 1362 and 1390)
+Topic: Science and technology,What surname of a mathematician is engraved on the Eiffel Tower at location NW06?,LAGRANGE
+Topic: Art,What was the Minute Man sculpture by Daniel Chester French originally intended to be made out of?,Stone
+Topic: Politics,In which university did Vujica Lazović defend his master's degree in 1994?,University of Belgrade
+Topic: Science and technology,What is the ChemSpider ID of Sitagliptin, an anti-diabetic medication used to treat Type 2 diabetes?,3571948
+Topic: History,What was the first and last name of the person who designed the historic Emil J. Oberhoffer House in Lakeville, Minnesota, United States?,Paul Haugen
+Topic: Politics,On what day, month, and year (in A.D.) was the Rastriya Prajatantra Party, a constitutional monarchist and Hindu nationalist political party in Nepal, founded?,29 May 1990
+Topic: Science and technology,As of August 2017, precisely how many stars were classified by the Henry Draper Catalogue?,359,083 (acceptable range: anything between 341,128 and 377,038)
+Topic: Politics,On what day, month, and year was Manuleleua Paletasala Tovale appointed Associate Minister for the Prime Minister and Cabinet?,28 July 2021
+Topic: TV shows,In 1999, who presented Susan Lucci with an Emmy?,Shemar Moore
+Topic: Art,What city and country was the engraver George Cooke's father from?,Frankfurt, Germany.
+Topic: Art,How much (in USD) was Frida's self-portrait with loose hair sold for in an auction by Christie's, New York, in May of 1991?,1.65 million USD (acceptable range: anything between 1.6 million and 1.7 million USD)
+Topic: Politics,Which former governor is tied with Jim Hunt for the sixth-longest gubernatorial tenure in post-Constitutional U.S. history at 5,838 days?,Jim Rhodes
+Topic: Art,Who gifted "Charing Cross Bridge" by Claude Monet to Churchill after WWII?,Emery Reeves
+Topic: Music,What were the first, middle, and last names of the second son of Amadeus Mozart?,Karl Thomas Mozart.
+Topic: Music,Who wrote the song "Let's Do It Again" performed by TLC?,Babyface and Jon-John
+Topic: Art,Who lent Salvador Dalí a villa for several months in 1938 so he could work?,Gabrielle Coco Chanel
+Topic: Art,What is Frida Kahlo's largest painting called in English?,The Two Fridas.
+Topic: Politics,Which high school did former Assistant Secretary of Commerce and Labor Frank Bestow Wiborg attend?,Chickering Scientific and Classical Institute
+Topic: Science and technology,What is the signature frequency of a healthy human body in MHz according to Heidi Yellen in 2003?,100 MHz (acceptable range: anything between 99 and 101 MHz)
+Topic: Science and technology,In which month and year did American Vice-President Al Gore and Russian Prime Minister Viktor Chernomyrdin announce plans for a new space station, which eventually became the International Space Station?,September 1993
+Topic: Music,In what year did the Soweto Gospel Choir perform for Oprah Winfrey for the first time?,2006
+Topic: Science and technology,Who won the Benjamin Franklin Medal for Computer and Cognitive Science in 2002?,Lucy Suchman
+Topic: Music,What is the title of the song after which Lady Annabel Goldsmith, the famous English socialite, was named?,"Miss Annabel Lee"
+Topic: Geography,Which tributary of the Jhelum originates in the central Pir Panjal range?,Dudhganga
+Topic: Other,How much money did Benny Hinn Ministries donate to the tsunami relief effort in 2007?,$250,000
+Topic: Geography,How many countries border Nigeria?,4
+Topic: Art,In what year did Leo Tolstoy come to Ilya Repin's studio to introduce himself?,1880
+Topic: Video games,In which month and year did Naughty Dog's technology head, Christian Gyrling, depart the company after 17 years and was replaced by Travis McIntosh?,November 2023
+Topic: Music,Which English singer was a film and television critic for The Observer from 1965 to 1973?,George Melly
+Topic: Politics,Who was the first female DG of MI5, and the first DG whose name was publicized on appointment?,Stella Rimington
+Topic: Art,What did the father of William Holwell Carr do for a living?,Apothecary
+Topic: Geography,What is the name of the settler who selected the name of Aloha Township, Michigan?,James B. Patterson
