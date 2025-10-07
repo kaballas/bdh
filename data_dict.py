@@ -4,7 +4,7 @@ from datasets import load_dataset
 dataset = load_dataset("lemonilia/wikified_english_dictionary")
 
 # Open file for writing
-with open('simpleqa_verified_extract.txt', 'w', encoding='utf-8') as f:
+with open('/content/simpleqa_verified_extract.txt', 'w', encoding='utf-8') as f:
     # Write header
     f.write("="*80 + "\n")
     f.write("SimpleQA Verified Dataset - Topic, Problem, Answer\n")
