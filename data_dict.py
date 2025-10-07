@@ -12,7 +12,7 @@ with open('/content/bdh/simpleqa_verified_extract.txt', 'w', encoding='utf-8') a
         f.write(f"{example['word']},{example['article']}\n")
         
 
-print(f"✓ Exported {len(dataset['eval'])} entries to 'simpleqa_verified_extract.txt'")
+print(f"✓ Exported {len(dataset['train'])} entries to 'simpleqa_verified_extract.txt'")
 print(f"✓ File size: {len(open('simpleqa_verified_extract.txt', 'r').read())} characters")
 
 # Preview first 3 entries

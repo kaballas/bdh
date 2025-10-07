@@ -11,7 +11,7 @@ with open('simpleqa_verified_extract.txt', 'w', encoding='utf-8') as f:
     f.write("="*80 + "\n\n")
     
     # Iterate through all examples
-    for idx, example in enumerate(dataset['eval'], 1):
+    for idx, example in enumerate(dataset['train'], 1):
         f.write(f"Topic: {example['topic']},{example['problem']},{example['answer']}\n")
         
 
